@@ -1,0 +1,4062 @@
+[
+  {
+    "model": "targeter.administrativeunit",
+    "pk": 906,
+    "fields": {
+      "name": "Ale",
+      "population": 27947,
+      "area": 316.51,
+      "state_id": 43,
+      "_average_household_net_yearly_income": 517900,
+      "_average_home_size_m2": 99.8,
+      "_recreational_properties_count": 393,
+      "_average_price_per_m2": 34569
+    }
+  },
+  {
+    "model": "targeter.administrativeunit",
+    "pk": 907,
+    "fields": {
+      "name": "Alings\u00e5s",
+      "population": 38553,
+      "area": 472.03,
+      "state_id": 43,
+      "_average_household_net_yearly_income": 506400,
+      "_average_home_size_m2": 99.03,
+      "_recreational_properties_count": 1212,
+      "_average_price_per_m2": 35595
+    }
+  },
+  {
+    "model": "targeter.administrativeunit",
+    "pk": 908,
+    "fields": {
+      "name": "Alvesta",
+      "population": 19219,
+      "area": 974.19,
+      "state_id": 44,
+      "_average_household_net_yearly_income": 445500,
+      "_average_home_size_m2": 112.52,
+      "_recreational_properties_count": 1150,
+      "_average_price_per_m2": 13802
+    }
+  },
+  {
+    "model": "targeter.administrativeunit",
+    "pk": 909,
+    "fields": {
+      "name": "Aneby",
+      "population": 6360,
+      "area": 517.76,
+      "state_id": 45,
+      "_average_household_net_yearly_income": 450100,
+      "_average_home_size_m2": 115.39,
+      "_recreational_properties_count": 562,
+      "_average_price_per_m2": 10789
+    }
+  },
+  {
+    "model": "targeter.administrativeunit",
+    "pk": 910,
+    "fields": {
+      "name": "Arboga",
+      "population": 13437,
+      "area": 325.43,
+      "state_id": 46,
+      "_average_household_net_yearly_income": 435600,
+      "_average_home_size_m2": 93.72,
+      "_recreational_properties_count": 791,
+      "_average_price_per_m2": 19153
+    }
+  },
+  {
+    "model": "targeter.administrativeunit",
+    "pk": 911,
+    "fields": {
+      "name": "Arjeplog",
+      "population": 2996,
+      "area": 12556.77,
+      "state_id": 47,
+      "_average_household_net_yearly_income": 391500,
+      "_average_home_size_m2": 93.81,
+      "_recreational_properties_count": 1449,
+      "_average_price_per_m2": 10798
+    }
+  },
+  {
+    "model": "targeter.administrativeunit",
+    "pk": 912,
+    "fields": {
+      "name": "Arvidsjaur",
+      "population": 6454,
+      "area": 5655.97,
+      "state_id": 47,
+      "_average_household_net_yearly_income": 386000,
+      "_average_home_size_m2": 91.38,
+      "_recreational_properties_count": 1571,
+      "_average_price_per_m2": 10768
+    }
+  },
+  {
+    "model": "targeter.administrativeunit",
+    "pk": 913,
+    "fields": {
+      "name": "Arvika",
+      "population": 25835,
+      "area": 1649.06,
+      "state_id": 48,
+      "_average_household_net_yearly_income": 392800,
+      "_average_home_size_m2": 95.35,
+      "_recreational_properties_count": 2995,
+      "_average_price_per_m2": 16476
+    }
+  },
+  {
+    "model": "targeter.administrativeunit",
+    "pk": 914,
+    "fields": {
+      "name": "Askersund",
+      "population": 10993,
+      "area": 815.99,
+      "state_id": 49,
+      "_average_household_net_yearly_income": 428700,
+      "_average_home_size_m2": 102.49,
+      "_recreational_properties_count": 2122,
+      "_average_price_per_m2": 13777
+    }
+  },
+  {
+    "model": "targeter.administrativeunit",
+    "pk": 915,
+    "fields": {
+      "name": "Avesta",
+      "population": 21549,
+      "area": 613.25,
+      "state_id": 50,
+      "_average_household_net_yearly_income": 402600,
+      "_average_home_size_m2": 89.65,
+      "_recreational_properties_count": 1443,
+      "_average_price_per_m2": 17122
+    }
+  },
+  {
+    "model": "targeter.administrativeunit",
+    "pk": 916,
+    "fields": {
+      "name": "Bengtsfors",
+      "population": 9532,
+      "area": 882.93,
+      "state_id": 43,
+      "_average_household_net_yearly_income": 369900,
+      "_average_home_size_m2": 96.69,
+      "_recreational_properties_count": 1862,
+      "_average_price_per_m2": 8377
+    }
+  },
+  {
+    "model": "targeter.administrativeunit",
+    "pk": 917,
+    "fields": {
+      "name": "Berg",
+      "population": 7180,
+      "area": 5711.34,
+      "state_id": 51,
+      "_average_household_net_yearly_income": 387900,
+      "_average_home_size_m2": 103.67,
+      "_recreational_properties_count": 4512,
+      "_average_price_per_m2": 8865
+    }
+  },
+  {
+    "model": "targeter.administrativeunit",
+    "pk": 918,
+    "fields": {
+      "name": "Bjurholm",
+      "population": 2442,
+      "area": 1306.75,
+      "state_id": 52,
+      "_average_household_net_yearly_income": 400400,
+      "_average_home_size_m2": 114.34,
+      "_recreational_properties_count": 550,
+      "_average_price_per_m2": 3874
+    }
+  },
+  {
+    "model": "targeter.administrativeunit",
+    "pk": 919,
+    "fields": {
+      "name": "Bjuv",
+      "population": 14813,
+      "area": 115.28,
+      "state_id": 53,
+      "_average_household_net_yearly_income": 432000,
+      "_average_home_size_m2": 104.14,
+      "_recreational_properties_count": 169,
+      "_average_price_per_m2": 16123
+    }
+  },
+  {
+    "model": "targeter.administrativeunit",
+    "pk": 920,
+    "fields": {
+      "name": "Boden",
+      "population": 27762,
+      "area": 4007.86,
+      "state_id": 47,
+      "_average_household_net_yearly_income": 414400,
+      "_average_home_size_m2": 94.25,
+      "_recreational_properties_count": 2367,
+      "_average_price_per_m2": 13507
+    }
+  },
+  {
+    "model": "targeter.administrativeunit",
+    "pk": 921,
+    "fields": {
+      "name": "Bollebygd",
+      "population": 8569,
+      "area": 263.19,
+      "state_id": 43,
+      "_average_household_net_yearly_income": 529700,
+      "_average_home_size_m2": 111.9,
+      "_recreational_properties_count": 397,
+      "_average_price_per_m2": 26113
+    }
+  },
+  {
+    "model": "targeter.administrativeunit",
+    "pk": 922,
+    "fields": {
+      "name": "Bolln\u00e4s",
+      "population": 26130,
+      "area": 1814.35,
+      "state_id": 54,
+      "_average_household_net_yearly_income": 387000,
+      "_average_home_size_m2": 93.81,
+      "_recreational_properties_count": 2943,
+      "_average_price_per_m2": 13900
+    }
+  },
+  {
+    "model": "targeter.administrativeunit",
+    "pk": 923,
+    "fields": {
+      "name": "Borgholm",
+      "population": 10634,
+      "area": 678.65,
+      "state_id": 55,
+      "_average_household_net_yearly_income": 431500,
+      "_average_home_size_m2": 103.51,
+      "_recreational_properties_count": 8591,
+      "_average_price_per_m2": 20017
+    }
+  },
+  {
+    "model": "targeter.administrativeunit",
+    "pk": 924,
+    "fields": {
+      "name": "Borl\u00e4nge",
+      "population": 49825,
+      "area": 583.87,
+      "state_id": 50,
+      "_average_household_net_yearly_income": 415700,
+      "_average_home_size_m2": 89.57,
+      "_recreational_properties_count": 1756,
+      "_average_price_per_m2": 26504
+    }
+  },
+  {
+    "model": "targeter.administrativeunit",
+    "pk": 925,
+    "fields": {
+      "name": "Bor\u00e5s",
+      "population": 105748,
+      "area": 909.9,
+      "state_id": 43,
+      "_average_household_net_yearly_income": 464700,
+      "_average_home_size_m2": 88.98,
+      "_recreational_properties_count": 1871,
+      "_average_price_per_m2": 32232
+    }
+  },
+  {
+    "model": "targeter.administrativeunit",
+    "pk": 926,
+    "fields": {
+      "name": "Botkyrka",
+      "population": 87386,
+      "area": 194.17,
+      "state_id": 56,
+      "_average_household_net_yearly_income": 483500,
+      "_average_home_size_m2": 89.33,
+      "_recreational_properties_count": 1142,
+      "_average_price_per_m2": 47397
+    }
+  },
+  {
+    "model": "targeter.administrativeunit",
+    "pk": 927,
+    "fields": {
+      "name": "Boxholm",
+      "population": 5256,
+      "area": 525.77,
+      "state_id": 57,
+      "_average_household_net_yearly_income": 434500,
+      "_average_home_size_m2": 99.43,
+      "_recreational_properties_count": 1224,
+      "_average_price_per_m2": 14925
+    }
+  },
+  {
+    "model": "targeter.administrativeunit",
+    "pk": 928,
+    "fields": {
+      "name": "Brom\u00f6lla",
+      "population": 12331,
+      "area": 162.5,
+      "state_id": 53,
+      "_average_household_net_yearly_income": 420800,
+      "_average_home_size_m2": 101.38,
+      "_recreational_properties_count": 368,
+      "_average_price_per_m2": 13918
+    }
+  },
+  {
+    "model": "targeter.administrativeunit",
+    "pk": 929,
+    "fields": {
+      "name": "Br\u00e4cke",
+      "population": 6630,
+      "area": 3408.2,
+      "state_id": 51,
+      "_average_household_net_yearly_income": 376300,
+      "_average_home_size_m2": 105.35,
+      "_recreational_properties_count": 2219,
+      "_average_price_per_m2": 5562
+    }
+  },
+  {
+    "model": "targeter.administrativeunit",
+    "pk": 930,
+    "fields": {
+      "name": "Burl\u00f6v",
+      "population": 17158,
+      "area": 18.9,
+      "state_id": 53,
+      "_average_household_net_yearly_income": 454300,
+      "_average_home_size_m2": 95.08,
+      "_recreational_properties_count": 45,
+      "_average_price_per_m2": 39251
+    }
+  },
+  {
+    "model": "targeter.administrativeunit",
+    "pk": 931,
+    "fields": {
+      "name": "B\u00e5stad",
+      "population": 14245,
+      "area": 209.79,
+      "state_id": 53,
+      "_average_household_net_yearly_income": 572900,
+      "_average_home_size_m2": 112.84,
+      "_recreational_properties_count": 4942,
+      "_average_price_per_m2": 34695
+    }
+  },
+  {
+    "model": "targeter.administrativeunit",
+    "pk": 932,
+    "fields": {
+      "name": "Dals-Ed",
+      "population": 4758,
+      "area": 724.34,
+      "state_id": 43,
+      "_average_household_net_yearly_income": 367700,
+      "_average_home_size_m2": 95.32,
+      "_recreational_properties_count": 1021,
+      "_average_price_per_m2": 14236
+    }
+  },
+  {
+    "model": "targeter.administrativeunit",
+    "pk": 933,
+    "fields": {
+      "name": "Danderyd",
+      "population": 32074,
+      "area": 26.4,
+      "state_id": 56,
+      "_average_household_net_yearly_income": 1380400,
+      "_average_home_size_m2": 127.17,
+      "_recreational_properties_count": 208,
+      "_average_price_per_m2": 88142
+    }
+  },
+  {
+    "model": "targeter.administrativeunit",
+    "pk": 934,
+    "fields": {
+      "name": "Degerfors",
+      "population": 9490,
+      "area": 383.98,
+      "state_id": 49,
+      "_average_household_net_yearly_income": 379400,
+      "_average_home_size_m2": 96.18,
+      "_recreational_properties_count": 686,
+      "_average_price_per_m2": 8578
+    }
+  },
+  {
+    "model": "targeter.administrativeunit",
+    "pk": 935,
+    "fields": {
+      "name": "Dorotea",
+      "population": 2769,
+      "area": 2764.92,
+      "state_id": 52,
+      "_average_household_net_yearly_income": 365100,
+      "_average_home_size_m2": 94.77,
+      "_recreational_properties_count": 1207,
+      "_average_price_per_m2": 5339
+    }
+  },
+  {
+    "model": "targeter.administrativeunit",
+    "pk": 936,
+    "fields": {
+      "name": "Eda",
+      "population": 8443,
+      "area": 820.18,
+      "state_id": 48,
+      "_average_household_net_yearly_income": 366000,
+      "_average_home_size_m2": 99.33,
+      "_recreational_properties_count": 1505,
+      "_average_price_per_m2": 11165
+    }
+  },
+  {
+    "model": "targeter.administrativeunit",
+    "pk": 937,
+    "fields": {
+      "name": "Eker\u00f6",
+      "population": 26282,
+      "area": 217.68,
+      "state_id": 56,
+      "_average_household_net_yearly_income": 833600,
+      "_average_home_size_m2": 117.44,
+      "_recreational_properties_count": 2019,
+      "_average_price_per_m2": 45760
+    }
+  },
+  {
+    "model": "targeter.administrativeunit",
+    "pk": 938,
+    "fields": {
+      "name": "Eksj\u00f6",
+      "population": 16454,
+      "area": 799.48,
+      "state_id": 45,
+      "_average_household_net_yearly_income": 430700,
+      "_average_home_size_m2": 105.13,
+      "_recreational_properties_count": 1213,
+      "_average_price_per_m2": 15172
+    }
+  },
+  {
+    "model": "targeter.administrativeunit",
+    "pk": 939,
+    "fields": {
+      "name": "Emmaboda",
+      "population": 8969,
+      "area": 689.7,
+      "state_id": 55,
+      "_average_household_net_yearly_income": 398800,
+      "_average_home_size_m2": 110.4,
+      "_recreational_properties_count": 857,
+      "_average_price_per_m2": 6902
+    }
+  },
+  {
+    "model": "targeter.administrativeunit",
+    "pk": 940,
+    "fields": {
+      "name": "Enk\u00f6ping",
+      "population": 40542,
+      "area": 1178.5,
+      "state_id": 58,
+      "_average_household_net_yearly_income": 481500,
+      "_average_home_size_m2": 98.31,
+      "_recreational_properties_count": 2477,
+      "_average_price_per_m2": 29590
+    }
+  },
+  {
+    "model": "targeter.administrativeunit",
+    "pk": 941,
+    "fields": {
+      "name": "Eskilstuna",
+      "population": 99745,
+      "area": 1099.87,
+      "state_id": 59,
+      "_average_household_net_yearly_income": 426400,
+      "_average_home_size_m2": 87.43,
+      "_recreational_properties_count": 3318,
+      "_average_price_per_m2": 33387
+    }
+  },
+  {
+    "model": "targeter.administrativeunit",
+    "pk": 942,
+    "fields": {
+      "name": "Esl\u00f6v",
+      "population": 31793,
+      "area": 419.06,
+      "state_id": 53,
+      "_average_household_net_yearly_income": 462600,
+      "_average_home_size_m2": 101.46,
+      "_recreational_properties_count": 386,
+      "_average_price_per_m2": 25793
+    }
+  },
+  {
+    "model": "targeter.administrativeunit",
+    "pk": 943,
+    "fields": {
+      "name": "Essunga",
+      "population": 5529,
+      "area": 234.61,
+      "state_id": 43,
+      "_average_household_net_yearly_income": 424700,
+      "_average_home_size_m2": 109.35,
+      "_recreational_properties_count": 257,
+      "_average_price_per_m2": 9986
+    }
+  },
+  {
+    "model": "targeter.administrativeunit",
+    "pk": 944,
+    "fields": {
+      "name": "Fagersta",
+      "population": 12831,
+      "area": 269.04,
+      "state_id": 46,
+      "_average_household_net_yearly_income": 393000,
+      "_average_home_size_m2": 88.34,
+      "_recreational_properties_count": 758,
+      "_average_price_per_m2": 14976
+    }
+  },
+  {
+    "model": "targeter.administrativeunit",
+    "pk": 945,
+    "fields": {
+      "name": "Falkenberg",
+      "population": 41646,
+      "area": 1108.89,
+      "state_id": 60,
+      "_average_household_net_yearly_income": 479900,
+      "_average_home_size_m2": 104.97,
+      "_recreational_properties_count": 4916,
+      "_average_price_per_m2": 23426
+    }
+  },
+  {
+    "model": "targeter.administrativeunit",
+    "pk": 946,
+    "fields": {
+      "name": "Falk\u00f6ping",
+      "population": 31923,
+      "area": 1044.98,
+      "state_id": 43,
+      "_average_household_net_yearly_income": 428600,
+      "_average_home_size_m2": 101.9,
+      "_recreational_properties_count": 921,
+      "_average_price_per_m2": 14995
+    }
+  },
+  {
+    "model": "targeter.administrativeunit",
+    "pk": 947,
+    "fields": {
+      "name": "Falun",
+      "population": 56763,
+      "area": 2040.13,
+      "state_id": 50,
+      "_average_household_net_yearly_income": 454900,
+      "_average_home_size_m2": 95.17,
+      "_recreational_properties_count": 3866,
+      "_average_price_per_m2": 27950
+    }
+  },
+  {
+    "model": "targeter.administrativeunit",
+    "pk": 948,
+    "fields": {
+      "name": "Filipstad",
+      "population": 10524,
+      "area": 1534.03,
+      "state_id": 48,
+      "_average_household_net_yearly_income": 342600,
+      "_average_home_size_m2": 93.83,
+      "_recreational_properties_count": 1512,
+      "_average_price_per_m2": 7098
+    }
+  },
+  {
+    "model": "targeter.administrativeunit",
+    "pk": 949,
+    "fields": {
+      "name": "Finsp\u00e5ng",
+      "population": 20890,
+      "area": 1055.28,
+      "state_id": 57,
+      "_average_household_net_yearly_income": 419600,
+      "_average_home_size_m2": 95.74,
+      "_recreational_properties_count": 1915,
+      "_average_price_per_m2": 20535
+    }
+  },
+  {
+    "model": "targeter.administrativeunit",
+    "pk": 950,
+    "fields": {
+      "name": "Flen",
+      "population": 16068,
+      "area": 718.83,
+      "state_id": 59,
+      "_average_household_net_yearly_income": 398600,
+      "_average_home_size_m2": 97.95,
+      "_recreational_properties_count": 2744,
+      "_average_price_per_m2": 16243
+    }
+  },
+  {
+    "model": "targeter.administrativeunit",
+    "pk": 951,
+    "fields": {
+      "name": "Forshaga",
+      "population": 11267,
+      "area": 348.18,
+      "state_id": 48,
+      "_average_household_net_yearly_income": 415600,
+      "_average_home_size_m2": 106.51,
+      "_recreational_properties_count": 588,
+      "_average_price_per_m2": 12534
+    }
+  },
+  {
+    "model": "targeter.administrativeunit",
+    "pk": 952,
+    "fields": {
+      "name": "F\u00e4rgelanda",
+      "population": 6545,
+      "area": 588.98,
+      "state_id": 43,
+      "_average_household_net_yearly_income": 402300,
+      "_average_home_size_m2": 103.02,
+      "_recreational_properties_count": 738,
+      "_average_price_per_m2": 9260
+    }
+  },
+  {
+    "model": "targeter.administrativeunit",
+    "pk": 953,
+    "fields": {
+      "name": "Gagnef",
+      "population": 10052,
+      "area": 767.15,
+      "state_id": 50,
+      "_average_household_net_yearly_income": 443000,
+      "_average_home_size_m2": 108.13,
+      "_recreational_properties_count": 2544,
+      "_average_price_per_m2": 13299
+    }
+  },
+  {
+    "model": "targeter.administrativeunit",
+    "pk": 954,
+    "fields": {
+      "name": "Gislaved",
+      "population": 28750,
+      "area": 1137.08,
+      "state_id": 45,
+      "_average_household_net_yearly_income": 471800,
+      "_average_home_size_m2": 104.89,
+      "_recreational_properties_count": 1249,
+      "_average_price_per_m2": 12470
+    }
+  },
+  {
+    "model": "targeter.administrativeunit",
+    "pk": 955,
+    "fields": {
+      "name": "Gnesta",
+      "population": 10450,
+      "area": 461.24,
+      "state_id": 59,
+      "_average_household_net_yearly_income": 472300,
+      "_average_home_size_m2": 99.28,
+      "_recreational_properties_count": 1719,
+      "_average_price_per_m2": 26712
+    }
+  },
+  {
+    "model": "targeter.administrativeunit",
+    "pk": 956,
+    "fields": {
+      "name": "Gnosj\u00f6",
+      "population": 9390,
+      "area": 420.58,
+      "state_id": 45,
+      "_average_household_net_yearly_income": 498600,
+      "_average_home_size_m2": 112.66,
+      "_recreational_properties_count": 371,
+      "_average_price_per_m2": 10225
+    }
+  },
+  {
+    "model": "targeter.administrativeunit",
+    "pk": 957,
+    "fields": {
+      "name": "Gotland",
+      "population": 57235,
+      "area": 3134.05,
+      "state_id": 61,
+      "_average_household_net_yearly_income": 435800,
+      "_average_home_size_m2": 95.82,
+      "_recreational_properties_count": 12137,
+      "_average_price_per_m2": 31330
+    }
+  },
+  {
+    "model": "targeter.administrativeunit",
+    "pk": 958,
+    "fields": {
+      "name": "Grums",
+      "population": 8918,
+      "area": 386.38,
+      "state_id": 48,
+      "_average_household_net_yearly_income": 394100,
+      "_average_home_size_m2": 97.98,
+      "_recreational_properties_count": 908,
+      "_average_price_per_m2": 10645
+    }
+  },
+  {
+    "model": "targeter.administrativeunit",
+    "pk": 959,
+    "fields": {
+      "name": "Gr\u00e4storp",
+      "population": 5613,
+      "area": 264.68,
+      "state_id": 43,
+      "_average_household_net_yearly_income": 453200,
+      "_average_home_size_m2": 113.15,
+      "_recreational_properties_count": 250,
+      "_average_price_per_m2": 12187
+    }
+  },
+  {
+    "model": "targeter.administrativeunit",
+    "pk": 960,
+    "fields": {
+      "name": "Gullsp\u00e5ng",
+      "population": 5194,
+      "area": 312.89,
+      "state_id": 43,
+      "_average_household_net_yearly_income": 375700,
+      "_average_home_size_m2": 101.6,
+      "_recreational_properties_count": 976,
+      "_average_price_per_m2": 6821
+    }
+  },
+  {
+    "model": "targeter.administrativeunit",
+    "pk": 961,
+    "fields": {
+      "name": "G\u00e4llivare",
+      "population": 18380,
+      "area": 15705.15,
+      "state_id": 47,
+      "_average_household_net_yearly_income": 456100,
+      "_average_home_size_m2": 86.92,
+      "_recreational_properties_count": 2136,
+      "_average_price_per_m2": 21491
+    }
+  },
+  {
+    "model": "targeter.administrativeunit",
+    "pk": 962,
+    "fields": {
+      "name": "G\u00e4vle",
+      "population": 96969,
+      "area": 1613.37,
+      "state_id": 54,
+      "_average_household_net_yearly_income": 438300,
+      "_average_home_size_m2": 87.04,
+      "_recreational_properties_count": 3516,
+      "_average_price_per_m2": 33284
+    }
+  },
+  {
+    "model": "targeter.administrativeunit",
+    "pk": 963,
+    "fields": {
+      "name": "G\u00f6teborg",
+      "population": 567337,
+      "area": 447.76,
+      "state_id": 43,
+      "_average_household_net_yearly_income": 489600,
+      "_average_home_size_m2": 79.03,
+      "_recreational_properties_count": 4824,
+      "_average_price_per_m2": 75212
+    }
+  },
+  {
+    "model": "targeter.administrativeunit",
+    "pk": 964,
+    "fields": {
+      "name": "G\u00f6tene",
+      "population": 13054,
+      "area": 404.54,
+      "state_id": 43,
+      "_average_household_net_yearly_income": 468600,
+      "_average_home_size_m2": 110.58,
+      "_recreational_properties_count": 891,
+      "_average_price_per_m2": 13348
+    }
+  },
+  {
+    "model": "targeter.administrativeunit",
+    "pk": 965,
+    "fields": {
+      "name": "Habo",
+      "population": 10969,
+      "area": 328.52,
+      "state_id": 45,
+      "_average_household_net_yearly_income": 540000,
+      "_average_home_size_m2": 117.6,
+      "_recreational_properties_count": 516,
+      "_average_price_per_m2": 23946
+    }
+  },
+  {
+    "model": "targeter.administrativeunit",
+    "pk": 966,
+    "fields": {
+      "name": "Hagfors",
+      "population": 12117,
+      "area": 1824.17,
+      "state_id": 48,
+      "_average_household_net_yearly_income": 364200,
+      "_average_home_size_m2": 97.38,
+      "_recreational_properties_count": 2358,
+      "_average_price_per_m2": 6593
+    }
+  },
+  {
+    "model": "targeter.administrativeunit",
+    "pk": 967,
+    "fields": {
+      "name": "Hallsberg",
+      "population": 15265,
+      "area": 636.71,
+      "state_id": 49,
+      "_average_household_net_yearly_income": 419500,
+      "_average_home_size_m2": 100.03,
+      "_recreational_properties_count": 941,
+      "_average_price_per_m2": 13726
+    }
+  },
+  {
+    "model": "targeter.administrativeunit",
+    "pk": 968,
+    "fields": {
+      "name": "Hallstahammar",
+      "population": 15473,
+      "area": 170.7,
+      "state_id": 46,
+      "_average_household_net_yearly_income": 418000,
+      "_average_home_size_m2": 92.19,
+      "_recreational_properties_count": 177,
+      "_average_price_per_m2": 20924
+    }
+  },
+  {
+    "model": "targeter.administrativeunit",
+    "pk": 969,
+    "fields": {
+      "name": "Halmstad",
+      "population": 93886,
+      "area": 1014.13,
+      "state_id": 60,
+      "_average_household_net_yearly_income": 463100,
+      "_average_home_size_m2": 96.65,
+      "_recreational_properties_count": 6028,
+      "_average_price_per_m2": 34278
+    }
+  },
+  {
+    "model": "targeter.administrativeunit",
+    "pk": 970,
+    "fields": {
+      "name": "Hammar\u00f6",
+      "population": 15139,
+      "area": 39.15,
+      "state_id": 48,
+      "_average_household_net_yearly_income": 516400,
+      "_average_home_size_m2": 101.65,
+      "_recreational_properties_count": 546,
+      "_average_price_per_m2": 32956
+    }
+  },
+  {
+    "model": "targeter.administrativeunit",
+    "pk": 971,
+    "fields": {
+      "name": "Haninge",
+      "population": 80615,
+      "area": 458.07,
+      "state_id": 56,
+      "_average_household_net_yearly_income": 511500,
+      "_average_home_size_m2": 89.62,
+      "_recreational_properties_count": 5981,
+      "_average_price_per_m2": 47925
+    }
+  },
+  {
+    "model": "targeter.administrativeunit",
+    "pk": 972,
+    "fields": {
+      "name": "Haparanda",
+      "population": 9890,
+      "area": 922.76,
+      "state_id": 47,
+      "_average_household_net_yearly_income": 347200,
+      "_average_home_size_m2": 91.25,
+      "_recreational_properties_count": 1225,
+      "_average_price_per_m2": 10849
+    }
+  },
+  {
+    "model": "targeter.administrativeunit",
+    "pk": 973,
+    "fields": {
+      "name": "Heby",
+      "population": 13451,
+      "area": 1166.81,
+      "state_id": 58,
+      "_average_household_net_yearly_income": 419100,
+      "_average_home_size_m2": 103.0,
+      "_recreational_properties_count": 1700,
+      "_average_price_per_m2": 14893
+    }
+  },
+  {
+    "model": "targeter.administrativeunit",
+    "pk": 974,
+    "fields": {
+      "name": "Hedemora",
+      "population": 15004,
+      "area": 835.1,
+      "state_id": 50,
+      "_average_household_net_yearly_income": 394700,
+      "_average_home_size_m2": 95.94,
+      "_recreational_properties_count": 1667,
+      "_average_price_per_m2": 13425
+    }
+  },
+  {
+    "model": "targeter.administrativeunit",
+    "pk": 975,
+    "fields": {
+      "name": "Helsingborg",
+      "population": 132706,
+      "area": 344.01,
+      "state_id": 53,
+      "_average_household_net_yearly_income": 470400,
+      "_average_home_size_m2": 88.82,
+      "_recreational_properties_count": 742,
+      "_average_price_per_m2": 45508
+    }
+  },
+  {
+    "model": "targeter.administrativeunit",
+    "pk": 976,
+    "fields": {
+      "name": "Herrljunga",
+      "population": 9239,
+      "area": 497.55,
+      "state_id": 43,
+      "_average_household_net_yearly_income": 450600,
+      "_average_home_size_m2": 107.55,
+      "_recreational_properties_count": 513,
+      "_average_price_per_m2": 12831
+    }
+  },
+  {
+    "model": "targeter.administrativeunit",
+    "pk": 977,
+    "fields": {
+      "name": "Hjo",
+      "population": 8833,
+      "area": 297.04,
+      "state_id": 43,
+      "_average_household_net_yearly_income": 447400,
+      "_average_home_size_m2": 107.65,
+      "_recreational_properties_count": 545,
+      "_average_price_per_m2": 15894
+    }
+  },
+  {
+    "model": "targeter.administrativeunit",
+    "pk": 978,
+    "fields": {
+      "name": "Hofors",
+      "population": 9527,
+      "area": 409.94,
+      "state_id": 54,
+      "_average_household_net_yearly_income": 400800,
+      "_average_home_size_m2": 92.14,
+      "_recreational_properties_count": 848,
+      "_average_price_per_m2": 9420
+    }
+  },
+  {
+    "model": "targeter.administrativeunit",
+    "pk": 979,
+    "fields": {
+      "name": "Huddinge",
+      "population": 102256,
+      "area": 131.01,
+      "state_id": 56,
+      "_average_household_net_yearly_income": 556500,
+      "_average_home_size_m2": 93.06,
+      "_recreational_properties_count": 1370,
+      "_average_price_per_m2": 56329
+    }
+  },
+  {
+    "model": "targeter.administrativeunit",
+    "pk": 980,
+    "fields": {
+      "name": "Hudiksvall",
+      "population": 36857,
+      "area": 2488.89,
+      "state_id": 54,
+      "_average_household_net_yearly_income": 410700,
+      "_average_home_size_m2": 95.27,
+      "_recreational_properties_count": 4765,
+      "_average_price_per_m2": 18085
+    }
+  },
+  {
+    "model": "targeter.administrativeunit",
+    "pk": 981,
+    "fields": {
+      "name": "Hultsfred",
+      "population": 13627,
+      "area": 1121.52,
+      "state_id": 55,
+      "_average_household_net_yearly_income": 391000,
+      "_average_home_size_m2": 101.43,
+      "_recreational_properties_count": 1815,
+      "_average_price_per_m2": 7049
+    }
+  },
+  {
+    "model": "targeter.administrativeunit",
+    "pk": 982,
+    "fields": {
+      "name": "Hylte",
+      "population": 9993,
+      "area": 946.08,
+      "state_id": 60,
+      "_average_household_net_yearly_income": 432900,
+      "_average_home_size_m2": 105.9,
+      "_recreational_properties_count": 1094,
+      "_average_price_per_m2": 8159
+    }
+  },
+  {
+    "model": "targeter.administrativeunit",
+    "pk": 983,
+    "fields": {
+      "name": "H\u00e5bo",
+      "population": 19940,
+      "area": 143.75,
+      "state_id": 58,
+      "_average_household_net_yearly_income": 553800,
+      "_average_home_size_m2": 105.09,
+      "_recreational_properties_count": 494,
+      "_average_price_per_m2": 32467
+    }
+  },
+  {
+    "model": "targeter.administrativeunit",
+    "pk": 984,
+    "fields": {
+      "name": "H\u00e4llefors",
+      "population": 6981,
+      "area": 984.95,
+      "state_id": 49,
+      "_average_household_net_yearly_income": 353300,
+      "_average_home_size_m2": 91.79,
+      "_recreational_properties_count": 1359,
+      "_average_price_per_m2": 7288
+    }
+  },
+  {
+    "model": "targeter.administrativeunit",
+    "pk": 985,
+    "fields": {
+      "name": "H\u00e4rjedalen",
+      "population": 10252,
+      "area": 11286.1,
+      "state_id": 51,
+      "_average_household_net_yearly_income": 395400,
+      "_average_home_size_m2": 95.99,
+      "_recreational_properties_count": 9094,
+      "_average_price_per_m2": 11137
+    }
+  },
+  {
+    "model": "targeter.administrativeunit",
+    "pk": 986,
+    "fields": {
+      "name": "H\u00e4rn\u00f6sand",
+      "population": 24468,
+      "area": 1058.36,
+      "state_id": 62,
+      "_average_household_net_yearly_income": 385300,
+      "_average_home_size_m2": 95.08,
+      "_recreational_properties_count": 2640,
+      "_average_price_per_m2": 12747
+    }
+  },
+  {
+    "model": "targeter.administrativeunit",
+    "pk": 987,
+    "fields": {
+      "name": "H\u00e4rryda",
+      "population": 35636,
+      "area": 266.78,
+      "state_id": 43,
+      "_average_household_net_yearly_income": 615200,
+      "_average_home_size_m2": 107.73,
+      "_recreational_properties_count": 704,
+      "_average_price_per_m2": 38661
+    }
+  },
+  {
+    "model": "targeter.administrativeunit",
+    "pk": 988,
+    "fields": {
+      "name": "H\u00e4ssleholm",
+      "population": 50187,
+      "area": 1268.53,
+      "state_id": 53,
+      "_average_household_net_yearly_income": 433500,
+      "_average_home_size_m2": 103.31,
+      "_recreational_properties_count": 2541,
+      "_average_price_per_m2": 14645
+    }
+  },
+  {
+    "model": "targeter.administrativeunit",
+    "pk": 989,
+    "fields": {
+      "name": "H\u00f6gan\u00e4s",
+      "population": 25016,
+      "area": 150.84,
+      "state_id": 53,
+      "_average_household_net_yearly_income": 541200,
+      "_average_home_size_m2": 111.58,
+      "_recreational_properties_count": 2060,
+      "_average_price_per_m2": 32837
+    }
+  },
+  {
+    "model": "targeter.administrativeunit",
+    "pk": 990,
+    "fields": {
+      "name": "H\u00f6gsby",
+      "population": 5692,
+      "area": 751.11,
+      "state_id": 55,
+      "_average_household_net_yearly_income": 370900,
+      "_average_home_size_m2": 106.91,
+      "_recreational_properties_count": 1207,
+      "_average_price_per_m2": 5584
+    }
+  },
+  {
+    "model": "targeter.administrativeunit",
+    "pk": 991,
+    "fields": {
+      "name": "H\u00f6rby",
+      "population": 14912,
+      "area": 419.41,
+      "state_id": 53,
+      "_average_household_net_yearly_income": 443000,
+      "_average_home_size_m2": 106.95,
+      "_recreational_properties_count": 1154,
+      "_average_price_per_m2": 15269
+    }
+  },
+  {
+    "model": "targeter.administrativeunit",
+    "pk": 992,
+    "fields": {
+      "name": "H\u00f6\u00f6r",
+      "population": 15671,
+      "area": 290.85,
+      "state_id": 53,
+      "_average_household_net_yearly_income": 477500,
+      "_average_home_size_m2": 112.06,
+      "_recreational_properties_count": 1153,
+      "_average_price_per_m2": 17946
+    }
+  },
+  {
+    "model": "targeter.administrativeunit",
+    "pk": 993,
+    "fields": {
+      "name": "Jokkmokk",
+      "population": 5074,
+      "area": 17614.32,
+      "state_id": 47,
+      "_average_household_net_yearly_income": 392200,
+      "_average_home_size_m2": 89.42,
+      "_recreational_properties_count": 1494,
+      "_average_price_per_m2": 10087
+    }
+  },
+  {
+    "model": "targeter.administrativeunit",
+    "pk": 994,
+    "fields": {
+      "name": "J\u00e4rf\u00e4lla",
+      "population": 69012,
+      "area": 53.81,
+      "state_id": 56,
+      "_average_household_net_yearly_income": 525800,
+      "_average_home_size_m2": 89.1,
+      "_recreational_properties_count": 164,
+      "_average_price_per_m2": 54905
+    }
+  },
+  {
+    "model": "targeter.administrativeunit",
+    "pk": 995,
+    "fields": {
+      "name": "J\u00f6nk\u00f6ping",
+      "population": 130413,
+      "area": 1480.36,
+      "state_id": 45,
+      "_average_household_net_yearly_income": 479900,
+      "_average_home_size_m2": 96.14,
+      "_recreational_properties_count": 2778,
+      "_average_price_per_m2": 36239
+    }
+  },
+  {
+    "model": "targeter.administrativeunit",
+    "pk": 996,
+    "fields": {
+      "name": "Kalix",
+      "population": 16447,
+      "area": 1807.67,
+      "state_id": 47,
+      "_average_household_net_yearly_income": 401300,
+      "_average_home_size_m2": 97.44,
+      "_recreational_properties_count": 2747,
+      "_average_price_per_m2": 8292
+    }
+  },
+  {
+    "model": "targeter.administrativeunit",
+    "pk": 997,
+    "fields": {
+      "name": "Kalmar",
+      "population": 63973,
+      "area": 956.9,
+      "state_id": 55,
+      "_average_household_net_yearly_income": 447500,
+      "_average_home_size_m2": 92.19,
+      "_recreational_properties_count": 2240,
+      "_average_price_per_m2": 30448
+    }
+  },
+  {
+    "model": "targeter.administrativeunit",
+    "pk": 998,
+    "fields": {
+      "name": "Karlsborg",
+      "population": 6752,
+      "area": 405.87,
+      "state_id": 43,
+      "_average_household_net_yearly_income": 415700,
+      "_average_home_size_m2": 100.17,
+      "_recreational_properties_count": 1177,
+      "_average_price_per_m2": 13467
+    }
+  },
+  {
+    "model": "targeter.administrativeunit",
+    "pk": 999,
+    "fields": {
+      "name": "Karlshamn",
+      "population": 31227,
+      "area": 488.68,
+      "state_id": 63,
+      "_average_household_net_yearly_income": 423700,
+      "_average_home_size_m2": 96.02,
+      "_recreational_properties_count": 1792,
+      "_average_price_per_m2": 18642
+    }
+  },
+  {
+    "model": "targeter.administrativeunit",
+    "pk": 1000,
+    "fields": {
+      "name": "Karlskoga",
+      "population": 29766,
+      "area": 468.23,
+      "state_id": 49,
+      "_average_household_net_yearly_income": 406200,
+      "_average_home_size_m2": 90.9,
+      "_recreational_properties_count": 694,
+      "_average_price_per_m2": 15699
+    }
+  },
+  {
+    "model": "targeter.administrativeunit",
+    "pk": 1001,
+    "fields": {
+      "name": "Karlskrona",
+      "population": 64050,
+      "area": 1042.21,
+      "state_id": 63,
+      "_average_household_net_yearly_income": 443600,
+      "_average_home_size_m2": 95.22,
+      "_recreational_properties_count": 4715,
+      "_average_price_per_m2": 25100
+    }
+  },
+  {
+    "model": "targeter.administrativeunit",
+    "pk": 1002,
+    "fields": {
+      "name": "Karlstad",
+      "population": 87596,
+      "area": 1150.52,
+      "state_id": 48,
+      "_average_household_net_yearly_income": 428400,
+      "_average_home_size_m2": 88.69,
+      "_recreational_properties_count": 2366,
+      "_average_price_per_m2": 32721
+    }
+  },
+  {
+    "model": "targeter.administrativeunit",
+    "pk": 1003,
+    "fields": {
+      "name": "Katrineholm",
+      "population": 32874,
+      "area": 1020.19,
+      "state_id": 59,
+      "_average_household_net_yearly_income": 417100,
+      "_average_home_size_m2": 90.96,
+      "_recreational_properties_count": 2079,
+      "_average_price_per_m2": 24340
+    }
+  },
+  {
+    "model": "targeter.administrativeunit",
+    "pk": 1004,
+    "fields": {
+      "name": "Kil",
+      "population": 11826,
+      "area": 359.73,
+      "state_id": 48,
+      "_average_household_net_yearly_income": 430700,
+      "_average_home_size_m2": 103.6,
+      "_recreational_properties_count": 821,
+      "_average_price_per_m2": 16448
+    }
+  },
+  {
+    "model": "targeter.administrativeunit",
+    "pk": 1005,
+    "fields": {
+      "name": "Kinda",
+      "population": 9812,
+      "area": 1129.47,
+      "state_id": 57,
+      "_average_household_net_yearly_income": 454400,
+      "_average_home_size_m2": 111.12,
+      "_recreational_properties_count": 1807,
+      "_average_price_per_m2": 16127
+    }
+  },
+  {
+    "model": "targeter.administrativeunit",
+    "pk": 1006,
+    "fields": {
+      "name": "Kiruna",
+      "population": 23134,
+      "area": 19140.33,
+      "state_id": 47,
+      "_average_household_net_yearly_income": 468700,
+      "_average_home_size_m2": 86.4,
+      "_recreational_properties_count": 2581,
+      "_average_price_per_m2": 21516
+    }
+  },
+  {
+    "model": "targeter.administrativeunit",
+    "pk": 1007,
+    "fields": {
+      "name": "Klippan",
+      "population": 16725,
+      "area": 374.32,
+      "state_id": 53,
+      "_average_household_net_yearly_income": 409800,
+      "_average_home_size_m2": 101.93,
+      "_recreational_properties_count": 822,
+      "_average_price_per_m2": 13882
+    }
+  },
+  {
+    "model": "targeter.administrativeunit",
+    "pk": 1008,
+    "fields": {
+      "name": "Knivsta",
+      "population": 15542,
+      "area": 282.17,
+      "state_id": 58,
+      "_average_household_net_yearly_income": 589600,
+      "_average_home_size_m2": 109.04,
+      "_recreational_properties_count": 440,
+      "_average_price_per_m2": 38160
+    }
+  },
+  {
+    "model": "targeter.administrativeunit",
+    "pk": 1009,
+    "fields": {
+      "name": "Kramfors",
+      "population": 18389,
+      "area": 1694.76,
+      "state_id": 62,
+      "_average_household_net_yearly_income": 371400,
+      "_average_home_size_m2": 101.22,
+      "_recreational_properties_count": 4650,
+      "_average_price_per_m2": 5374
+    }
+  },
+  {
+    "model": "targeter.administrativeunit",
+    "pk": 1010,
+    "fields": {
+      "name": "Kristianstad",
+      "population": 80948,
+      "area": 1246.25,
+      "state_id": 53,
+      "_average_household_net_yearly_income": 447200,
+      "_average_home_size_m2": 100.4,
+      "_recreational_properties_count": 5473,
+      "_average_price_per_m2": 22251
+    }
+  },
+  {
+    "model": "targeter.administrativeunit",
+    "pk": 1011,
+    "fields": {
+      "name": "Kristinehamn",
+      "population": 23928,
+      "area": 753.12,
+      "state_id": 48,
+      "_average_household_net_yearly_income": 393300,
+      "_average_home_size_m2": 93.56,
+      "_recreational_properties_count": 1915,
+      "_average_price_per_m2": 14461
+    }
+  },
+  {
+    "model": "targeter.administrativeunit",
+    "pk": 1012,
+    "fields": {
+      "name": "Krokom",
+      "population": 14604,
+      "area": 6155.18,
+      "state_id": 51,
+      "_average_household_net_yearly_income": 456800,
+      "_average_home_size_m2": 107.88,
+      "_recreational_properties_count": 3026,
+      "_average_price_per_m2": 15564
+    }
+  },
+  {
+    "model": "targeter.administrativeunit",
+    "pk": 1013,
+    "fields": {
+      "name": "Kumla",
+      "population": 20806,
+      "area": 204.18,
+      "state_id": 49,
+      "_average_household_net_yearly_income": 444000,
+      "_average_home_size_m2": 97.46,
+      "_recreational_properties_count": 208,
+      "_average_price_per_m2": 23240
+    }
+  },
+  {
+    "model": "targeter.administrativeunit",
+    "pk": 1014,
+    "fields": {
+      "name": "Kungsbacka",
+      "population": 77211,
+      "area": 606.67,
+      "state_id": 60,
+      "_average_household_net_yearly_income": 677300,
+      "_average_home_size_m2": 116.54,
+      "_recreational_properties_count": 3030,
+      "_average_price_per_m2": 40990
+    }
+  },
+  {
+    "model": "targeter.administrativeunit",
+    "pk": 1015,
+    "fields": {
+      "name": "Kungs\u00f6r",
+      "population": 8141,
+      "area": 202.65,
+      "state_id": 46,
+      "_average_household_net_yearly_income": 416900,
+      "_average_home_size_m2": 101.39,
+      "_recreational_properties_count": 326,
+      "_average_price_per_m2": 17467
+    }
+  },
+  {
+    "model": "targeter.administrativeunit",
+    "pk": 1016,
+    "fields": {
+      "name": "Kung\u00e4lv",
+      "population": 42054,
+      "area": 362.59,
+      "state_id": 43,
+      "_average_household_net_yearly_income": 556700,
+      "_average_home_size_m2": 98.82,
+      "_recreational_properties_count": 2387,
+      "_average_price_per_m2": 42532
+    }
+  },
+  {
+    "model": "targeter.administrativeunit",
+    "pk": 1017,
+    "fields": {
+      "name": "K\u00e4vlinge",
+      "population": 29604,
+      "area": 152.56,
+      "state_id": 53,
+      "_average_household_net_yearly_income": 584600,
+      "_average_home_size_m2": 114.71,
+      "_recreational_properties_count": 325,
+      "_average_price_per_m2": 31506
+    }
+  },
+  {
+    "model": "targeter.administrativeunit",
+    "pk": 1018,
+    "fields": {
+      "name": "K\u00f6ping",
+      "population": 25138,
+      "area": 604.55,
+      "state_id": 46,
+      "_average_household_net_yearly_income": 412100,
+      "_average_home_size_m2": 90.63,
+      "_recreational_properties_count": 1194,
+      "_average_price_per_m2": 22222
+    }
+  },
+  {
+    "model": "targeter.administrativeunit",
+    "pk": 1019,
+    "fields": {
+      "name": "Laholm",
+      "population": 23471,
+      "area": 882.96,
+      "state_id": 60,
+      "_average_household_net_yearly_income": 460900,
+      "_average_home_size_m2": 110.19,
+      "_recreational_properties_count": 4896,
+      "_average_price_per_m2": 18486
+    }
+  },
+  {
+    "model": "targeter.administrativeunit",
+    "pk": 1020,
+    "fields": {
+      "name": "Landskrona",
+      "population": 42907,
+      "area": 140.28,
+      "state_id": 53,
+      "_average_household_net_yearly_income": 437100,
+      "_average_home_size_m2": 90.19,
+      "_recreational_properties_count": 1116,
+      "_average_price_per_m2": 32398
+    }
+  },
+  {
+    "model": "targeter.administrativeunit",
+    "pk": 1021,
+    "fields": {
+      "name": "Lax\u00e5",
+      "population": 5592,
+      "area": 601.97,
+      "state_id": 49,
+      "_average_household_net_yearly_income": 383100,
+      "_average_home_size_m2": 101.59,
+      "_recreational_properties_count": 725,
+      "_average_price_per_m2": 8790
+    }
+  },
+  {
+    "model": "targeter.administrativeunit",
+    "pk": 1022,
+    "fields": {
+      "name": "Lekeberg",
+      "population": 7303,
+      "area": 463.16,
+      "state_id": 49,
+      "_average_household_net_yearly_income": 462000,
+      "_average_home_size_m2": 113.25,
+      "_recreational_properties_count": 953,
+      "_average_price_per_m2": 15258
+    }
+  },
+  {
+    "model": "targeter.administrativeunit",
+    "pk": 1023,
+    "fields": {
+      "name": "Leksand",
+      "population": 15152,
+      "area": 1221.23,
+      "state_id": 50,
+      "_average_household_net_yearly_income": 500500,
+      "_average_home_size_m2": 100.87,
+      "_recreational_properties_count": 3977,
+      "_average_price_per_m2": 22950
+    }
+  },
+  {
+    "model": "targeter.administrativeunit",
+    "pk": 1024,
+    "fields": {
+      "name": "Lerum",
+      "population": 39203,
+      "area": 258.61,
+      "state_id": 43,
+      "_average_household_net_yearly_income": 604500,
+      "_average_home_size_m2": 110.45,
+      "_recreational_properties_count": 718,
+      "_average_price_per_m2": 34522
+    }
+  },
+  {
+    "model": "targeter.administrativeunit",
+    "pk": 1025,
+    "fields": {
+      "name": "Lessebo",
+      "population": 8023,
+      "area": 412.55,
+      "state_id": 44,
+      "_average_household_net_yearly_income": 413500,
+      "_average_home_size_m2": 109.54,
+      "_recreational_properties_count": 514,
+      "_average_price_per_m2": 8855
+    }
+  },
+  {
+    "model": "targeter.administrativeunit",
+    "pk": 1026,
+    "fields": {
+      "name": "Liding\u00f6",
+      "population": 45034,
+      "area": 30.8,
+      "state_id": 56,
+      "_average_household_net_yearly_income": 898500,
+      "_average_home_size_m2": 103.13,
+      "_recreational_properties_count": 422,
+      "_average_price_per_m2": 104761
+    }
+  },
+  {
+    "model": "targeter.administrativeunit",
+    "pk": 1027,
+    "fields": {
+      "name": "Lidk\u00f6ping",
+      "population": 38344,
+      "area": 695.61,
+      "state_id": 43,
+      "_average_household_net_yearly_income": 460500,
+      "_average_home_size_m2": 99.82,
+      "_recreational_properties_count": 1948,
+      "_average_price_per_m2": 24985
+    }
+  },
+  {
+    "model": "targeter.administrativeunit",
+    "pk": 1028,
+    "fields": {
+      "name": "Lilla Edet",
+      "population": 12766,
+      "area": 316.23,
+      "state_id": 43,
+      "_average_household_net_yearly_income": 454400,
+      "_average_home_size_m2": 99.32,
+      "_recreational_properties_count": 783,
+      "_average_price_per_m2": 21768
+    }
+  },
+  {
+    "model": "targeter.administrativeunit",
+    "pk": 1029,
+    "fields": {
+      "name": "Lindesberg",
+      "population": 23114,
+      "area": 1377.59,
+      "state_id": 49,
+      "_average_household_net_yearly_income": 411200,
+      "_average_home_size_m2": 99.92,
+      "_recreational_properties_count": 1971,
+      "_average_price_per_m2": 13981
+    }
+  },
+  {
+    "model": "targeter.administrativeunit",
+    "pk": 1030,
+    "fields": {
+      "name": "Link\u00f6ping",
+      "population": 149906,
+      "area": 1427.44,
+      "state_id": 57,
+      "_average_household_net_yearly_income": 471000,
+      "_average_home_size_m2": 89.9,
+      "_recreational_properties_count": 2810,
+      "_average_price_per_m2": 42570
+    }
+  },
+  {
+    "model": "targeter.administrativeunit",
+    "pk": 1031,
+    "fields": {
+      "name": "Ljungby",
+      "population": 27324,
+      "area": 1747.9,
+      "state_id": 44,
+      "_average_household_net_yearly_income": 440800,
+      "_average_home_size_m2": 104.78,
+      "_recreational_properties_count": 2928,
+      "_average_price_per_m2": 15757
+    }
+  },
+  {
+    "model": "targeter.administrativeunit",
+    "pk": 1032,
+    "fields": {
+      "name": "Ljusdal",
+      "population": 18856,
+      "area": 5256.7,
+      "state_id": 54,
+      "_average_household_net_yearly_income": 392900,
+      "_average_home_size_m2": 99.19,
+      "_recreational_properties_count": 3961,
+      "_average_price_per_m2": 12390
+    }
+  },
+  {
+    "model": "targeter.administrativeunit",
+    "pk": 1033,
+    "fields": {
+      "name": "Ljusnarsberg",
+      "population": 4844,
+      "area": 575.54,
+      "state_id": 49,
+      "_average_household_net_yearly_income": 347800,
+      "_average_home_size_m2": 96.83,
+      "_recreational_properties_count": 1191,
+      "_average_price_per_m2": 6558
+    }
+  },
+  {
+    "model": "targeter.administrativeunit",
+    "pk": 1034,
+    "fields": {
+      "name": "Lomma",
+      "population": 22498,
+      "area": 55.52,
+      "state_id": 53,
+      "_average_household_net_yearly_income": 708800,
+      "_average_home_size_m2": 119.25,
+      "_recreational_properties_count": 133,
+      "_average_price_per_m2": 47078
+    }
+  },
+  {
+    "model": "targeter.administrativeunit",
+    "pk": 1035,
+    "fields": {
+      "name": "Ludvika",
+      "population": 25643,
+      "area": 1490.42,
+      "state_id": 50,
+      "_average_household_net_yearly_income": 395800,
+      "_average_home_size_m2": 89.08,
+      "_recreational_properties_count": 2387,
+      "_average_price_per_m2": 14841
+    }
+  },
+  {
+    "model": "targeter.administrativeunit",
+    "pk": 1036,
+    "fields": {
+      "name": "Lule\u00e5",
+      "population": 75361,
+      "area": 2094.18,
+      "state_id": 47,
+      "_average_household_net_yearly_income": 442500,
+      "_average_home_size_m2": 88.27,
+      "_recreational_properties_count": 4527,
+      "_average_price_per_m2": 29976
+    }
+  },
+  {
+    "model": "targeter.administrativeunit",
+    "pk": 1037,
+    "fields": {
+      "name": "Lund",
+      "population": 114061,
+      "area": 427.23,
+      "state_id": 53,
+      "_average_household_net_yearly_income": 471300,
+      "_average_home_size_m2": 91.81,
+      "_recreational_properties_count": 479,
+      "_average_price_per_m2": 50768
+    }
+  },
+  {
+    "model": "targeter.administrativeunit",
+    "pk": 1038,
+    "fields": {
+      "name": "Lycksele",
+      "population": 12292,
+      "area": 5518.49,
+      "state_id": 52,
+      "_average_household_net_yearly_income": 395900,
+      "_average_home_size_m2": 92.81,
+      "_recreational_properties_count": 1618,
+      "_average_price_per_m2": 10764
+    }
+  },
+  {
+    "model": "targeter.administrativeunit",
+    "pk": 1039,
+    "fields": {
+      "name": "Lysekil",
+      "population": 14397,
+      "area": 208.45,
+      "state_id": 43,
+      "_average_household_net_yearly_income": 439200,
+      "_average_home_size_m2": 93.56,
+      "_recreational_properties_count": 4364,
+      "_average_price_per_m2": 29543
+    }
+  },
+  {
+    "model": "targeter.administrativeunit",
+    "pk": 1040,
+    "fields": {
+      "name": "Malm\u00f6",
+      "population": 336226,
+      "area": 156.87,
+      "state_id": 53,
+      "_average_household_net_yearly_income": 423300,
+      "_average_home_size_m2": 79.3,
+      "_recreational_properties_count": 2956,
+      "_average_price_per_m2": 62421
+    }
+  },
+  {
+    "model": "targeter.administrativeunit",
+    "pk": 1041,
+    "fields": {
+      "name": "Malung-S\u00e4len",
+      "population": 10051,
+      "area": 4085.06,
+      "state_id": 50,
+      "_average_household_net_yearly_income": 410700,
+      "_average_home_size_m2": 100.37,
+      "_recreational_properties_count": 7346,
+      "_average_price_per_m2": 15841
+    }
+  },
+  {
+    "model": "targeter.administrativeunit",
+    "pk": 1042,
+    "fields": {
+      "name": "Mal\u00e5",
+      "population": 3170,
+      "area": 1598.95,
+      "state_id": 52,
+      "_average_household_net_yearly_income": 378700,
+      "_average_home_size_m2": 96.25,
+      "_recreational_properties_count": 425,
+      "_average_price_per_m2": 4977
+    }
+  },
+  {
+    "model": "targeter.administrativeunit",
+    "pk": 1043,
+    "fields": {
+      "name": "Mariestad",
+      "population": 23769,
+      "area": 601.18,
+      "state_id": 43,
+      "_average_household_net_yearly_income": 425300,
+      "_average_home_size_m2": 97.96,
+      "_recreational_properties_count": 1376,
+      "_average_price_per_m2": 18844
+    }
+  },
+  {
+    "model": "targeter.administrativeunit",
+    "pk": 1044,
+    "fields": {
+      "name": "Mark",
+      "population": 33689,
+      "area": 929.25,
+      "state_id": 43,
+      "_average_household_net_yearly_income": 460500,
+      "_average_home_size_m2": 102.67,
+      "_recreational_properties_count": 1671,
+      "_average_price_per_m2": 20464
+    }
+  },
+  {
+    "model": "targeter.administrativeunit",
+    "pk": 1045,
+    "fields": {
+      "name": "Markaryd",
+      "population": 9504,
+      "area": 517.19,
+      "state_id": 44,
+      "_average_household_net_yearly_income": 412000,
+      "_average_home_size_m2": 105.08,
+      "_recreational_properties_count": 1055,
+      "_average_price_per_m2": 10373
+    }
+  },
+  {
+    "model": "targeter.administrativeunit",
+    "pk": 1046,
+    "fields": {
+      "name": "Mellerud",
+      "population": 8913,
+      "area": 516.8,
+      "state_id": 43,
+      "_average_household_net_yearly_income": 385700,
+      "_average_home_size_m2": 101.58,
+      "_recreational_properties_count": 1973,
+      "_average_price_per_m2": 9165
+    }
+  },
+  {
+    "model": "targeter.administrativeunit",
+    "pk": 1047,
+    "fields": {
+      "name": "Mj\u00f6lby",
+      "population": 26309,
+      "area": 546.04,
+      "state_id": 57,
+      "_average_household_net_yearly_income": 446400,
+      "_average_home_size_m2": 96.8,
+      "_recreational_properties_count": 662,
+      "_average_price_per_m2": 24256
+    }
+  },
+  {
+    "model": "targeter.administrativeunit",
+    "pk": 1048,
+    "fields": {
+      "name": "Mora",
+      "population": 20011,
+      "area": 2812.56,
+      "state_id": 50,
+      "_average_household_net_yearly_income": 427600,
+      "_average_home_size_m2": 98.17,
+      "_recreational_properties_count": 4833,
+      "_average_price_per_m2": 18692
+    }
+  },
+  {
+    "model": "targeter.administrativeunit",
+    "pk": 1049,
+    "fields": {
+      "name": "Motala",
+      "population": 42126,
+      "area": 983.49,
+      "state_id": 57,
+      "_average_household_net_yearly_income": 430400,
+      "_average_home_size_m2": 94.5,
+      "_recreational_properties_count": 2138,
+      "_average_price_per_m2": 24667
+    }
+  },
+  {
+    "model": "targeter.administrativeunit",
+    "pk": 1050,
+    "fields": {
+      "name": "Mullsj\u00f6",
+      "population": 7013,
+      "area": 200.16,
+      "state_id": 45,
+      "_average_household_net_yearly_income": 453000,
+      "_average_home_size_m2": 107.23,
+      "_recreational_properties_count": 452,
+      "_average_price_per_m2": 14847
+    }
+  },
+  {
+    "model": "targeter.administrativeunit",
+    "pk": 1051,
+    "fields": {
+      "name": "Munkedal",
+      "population": 10220,
+      "area": 634.01,
+      "state_id": 43,
+      "_average_household_net_yearly_income": 404800,
+      "_average_home_size_m2": 97.85,
+      "_recreational_properties_count": 1324,
+      "_average_price_per_m2": 15248
+    }
+  },
+  {
+    "model": "targeter.administrativeunit",
+    "pk": 1052,
+    "fields": {
+      "name": "Munkfors",
+      "population": 3665,
+      "area": 141.58,
+      "state_id": 48,
+      "_average_household_net_yearly_income": 348200,
+      "_average_home_size_m2": 98.43,
+      "_recreational_properties_count": 359,
+      "_average_price_per_m2": 4978
+    }
+  },
+  {
+    "model": "targeter.administrativeunit",
+    "pk": 1053,
+    "fields": {
+      "name": "M\u00f6lndal",
+      "population": 61887,
+      "area": 145.84,
+      "state_id": 43,
+      "_average_household_net_yearly_income": 552300,
+      "_average_home_size_m2": 90.5,
+      "_recreational_properties_count": 447,
+      "_average_price_per_m2": 55547
+    }
+  },
+  {
+    "model": "targeter.administrativeunit",
+    "pk": 1054,
+    "fields": {
+      "name": "M\u00f6nster\u00e5s",
+      "population": 12895,
+      "area": 599.46,
+      "state_id": 55,
+      "_average_household_net_yearly_income": 425600,
+      "_average_home_size_m2": 101.11,
+      "_recreational_properties_count": 1433,
+      "_average_price_per_m2": 12897
+    }
+  },
+  {
+    "model": "targeter.administrativeunit",
+    "pk": 1055,
+    "fields": {
+      "name": "M\u00f6rbyl\u00e5nga",
+      "population": 14299,
+      "area": 666.79,
+      "state_id": 55,
+      "_average_household_net_yearly_income": 470600,
+      "_average_home_size_m2": 111.77,
+      "_recreational_properties_count": 3941,
+      "_average_price_per_m2": 19451
+    }
+  },
+  {
+    "model": "targeter.administrativeunit",
+    "pk": 1056,
+    "fields": {
+      "name": "Nacka",
+      "population": 94215,
+      "area": 95.12,
+      "state_id": 56,
+      "_average_household_net_yearly_income": 731500,
+      "_average_home_size_m2": 97.39,
+      "_recreational_properties_count": 1238,
+      "_average_price_per_m2": 81477
+    }
+  },
+  {
+    "model": "targeter.administrativeunit",
+    "pk": 1057,
+    "fields": {
+      "name": "Nora",
+      "population": 10391,
+      "area": 618.49,
+      "state_id": 49,
+      "_average_household_net_yearly_income": 425300,
+      "_average_home_size_m2": 102.2,
+      "_recreational_properties_count": 1133,
+      "_average_price_per_m2": 16566
+    }
+  },
+  {
+    "model": "targeter.administrativeunit",
+    "pk": 1058,
+    "fields": {
+      "name": "Norberg",
+      "population": 5589,
+      "area": 417.8,
+      "state_id": 46,
+      "_average_household_net_yearly_income": 397800,
+      "_average_home_size_m2": 95.07,
+      "_recreational_properties_count": 561,
+      "_average_price_per_m2": 11686
+    }
+  },
+  {
+    "model": "targeter.administrativeunit",
+    "pk": 1059,
+    "fields": {
+      "name": "Nordanstig",
+      "population": 9515,
+      "area": 1370.64,
+      "state_id": 54,
+      "_average_household_net_yearly_income": 387300,
+      "_average_home_size_m2": 107.51,
+      "_recreational_properties_count": 2599,
+      "_average_price_per_m2": 7320
+    }
+  },
+  {
+    "model": "targeter.administrativeunit",
+    "pk": 1060,
+    "fields": {
+      "name": "Nordmaling",
+      "population": 7019,
+      "area": 1229.42,
+      "state_id": 52,
+      "_average_household_net_yearly_income": 423500,
+      "_average_home_size_m2": 110.78,
+      "_recreational_properties_count": 1709,
+      "_average_price_per_m2": 9469
+    }
+  },
+  {
+    "model": "targeter.administrativeunit",
+    "pk": 1061,
+    "fields": {
+      "name": "Norrk\u00f6ping",
+      "population": 133444,
+      "area": 1495.05,
+      "state_id": 57,
+      "_average_household_net_yearly_income": 446600,
+      "_average_home_size_m2": 87.58,
+      "_recreational_properties_count": 4166,
+      "_average_price_per_m2": 38753
+    }
+  },
+  {
+    "model": "targeter.administrativeunit",
+    "pk": 1062,
+    "fields": {
+      "name": "Norrt\u00e4lje",
+      "population": 56845,
+      "area": 2016.04,
+      "state_id": 56,
+      "_average_household_net_yearly_income": 468900,
+      "_average_home_size_m2": 92.24,
+      "_recreational_properties_count": 26318,
+      "_average_price_per_m2": 29521
+    }
+  },
+  {
+    "model": "targeter.administrativeunit",
+    "pk": 1063,
+    "fields": {
+      "name": "Norsj\u00f6",
+      "population": 4168,
+      "area": 1739.45,
+      "state_id": 52,
+      "_average_household_net_yearly_income": 384500,
+      "_average_home_size_m2": 106.69,
+      "_recreational_properties_count": 954,
+      "_average_price_per_m2": 3805
+    }
+  },
+  {
+    "model": "targeter.administrativeunit",
+    "pk": 1064,
+    "fields": {
+      "name": "Nybro",
+      "population": 19466,
+      "area": 1171.69,
+      "state_id": 55,
+      "_average_household_net_yearly_income": 388200,
+      "_average_home_size_m2": 100.98,
+      "_recreational_properties_count": 1092,
+      "_average_price_per_m2": 13161
+    }
+  },
+  {
+    "model": "targeter.administrativeunit",
+    "pk": 1065,
+    "fields": {
+      "name": "Nykvarn",
+      "population": 9502,
+      "area": 152.76,
+      "state_id": 56,
+      "_average_household_net_yearly_income": 586800,
+      "_average_home_size_m2": 104.06,
+      "_recreational_properties_count": 434,
+      "_average_price_per_m2": 36594
+    }
+  },
+  {
+    "model": "targeter.administrativeunit",
+    "pk": 1066,
+    "fields": {
+      "name": "Nyk\u00f6ping",
+      "population": 52835,
+      "area": 1420.84,
+      "state_id": 59,
+      "_average_household_net_yearly_income": 458500,
+      "_average_home_size_m2": 90.6,
+      "_recreational_properties_count": 3231,
+      "_average_price_per_m2": 32406
+    }
+  },
+  {
+    "model": "targeter.administrativeunit",
+    "pk": 1067,
+    "fields": {
+      "name": "Nyn\u00e4shamn",
+      "population": 26681,
+      "area": 358.76,
+      "state_id": 56,
+      "_average_household_net_yearly_income": 486300,
+      "_average_home_size_m2": 90.0,
+      "_recreational_properties_count": 3074,
+      "_average_price_per_m2": 38144
+    }
+  },
+  {
+    "model": "targeter.administrativeunit",
+    "pk": 1068,
+    "fields": {
+      "name": "N\u00e4ssj\u00f6",
+      "population": 29470,
+      "area": 930.29,
+      "state_id": 45,
+      "_average_household_net_yearly_income": 433900,
+      "_average_home_size_m2": 102.08,
+      "_recreational_properties_count": 1468,
+      "_average_price_per_m2": 15468
+    }
+  },
+  {
+    "model": "targeter.administrativeunit",
+    "pk": 1069,
+    "fields": {
+      "name": "Ockelbo",
+      "population": 5825,
+      "area": 1064.97,
+      "state_id": 54,
+      "_average_household_net_yearly_income": 380300,
+      "_average_home_size_m2": 102.8,
+      "_recreational_properties_count": 1255,
+      "_average_price_per_m2": 10389
+    }
+  },
+  {
+    "model": "targeter.administrativeunit",
+    "pk": 1070,
+    "fields": {
+      "name": "Olofstr\u00f6m",
+      "population": 12906,
+      "area": 389.79,
+      "state_id": 63,
+      "_average_household_net_yearly_income": 395700,
+      "_average_home_size_m2": 95.76,
+      "_recreational_properties_count": 723,
+      "_average_price_per_m2": 10119
+    }
+  },
+  {
+    "model": "targeter.administrativeunit",
+    "pk": 1071,
+    "fields": {
+      "name": "Orsa",
+      "population": 6837,
+      "area": 1730.85,
+      "state_id": 50,
+      "_average_household_net_yearly_income": 388000,
+      "_average_home_size_m2": 97.81,
+      "_recreational_properties_count": 1676,
+      "_average_price_per_m2": 14559
+    }
+  },
+  {
+    "model": "targeter.administrativeunit",
+    "pk": 1072,
+    "fields": {
+      "name": "Orust",
+      "population": 15108,
+      "area": 386.52,
+      "state_id": 43,
+      "_average_household_net_yearly_income": 463700,
+      "_average_home_size_m2": 105.6,
+      "_recreational_properties_count": 6084,
+      "_average_price_per_m2": 25038
+    }
+  },
+  {
+    "model": "targeter.administrativeunit",
+    "pk": 1073,
+    "fields": {
+      "name": "Osby",
+      "population": 12692,
+      "area": 576.24,
+      "state_id": 53,
+      "_average_household_net_yearly_income": 422200,
+      "_average_home_size_m2": 106.15,
+      "_recreational_properties_count": 972,
+      "_average_price_per_m2": 11088
+    }
+  },
+  {
+    "model": "targeter.administrativeunit",
+    "pk": 1074,
+    "fields": {
+      "name": "Oskarshamn",
+      "population": 26258,
+      "area": 1049.49,
+      "state_id": 55,
+      "_average_household_net_yearly_income": 440500,
+      "_average_home_size_m2": 96.93,
+      "_recreational_properties_count": 2009,
+      "_average_price_per_m2": 18859
+    }
+  },
+  {
+    "model": "targeter.administrativeunit",
+    "pk": 1075,
+    "fields": {
+      "name": "Ovan\u00e5ker",
+      "population": 11392,
+      "area": 1873.31,
+      "state_id": 54,
+      "_average_household_net_yearly_income": 386000,
+      "_average_home_size_m2": 103.29,
+      "_recreational_properties_count": 1681,
+      "_average_price_per_m2": 9343
+    }
+  },
+  {
+    "model": "targeter.administrativeunit",
+    "pk": 1076,
+    "fields": {
+      "name": "Oxel\u00f6sund",
+      "population": 11371,
+      "area": 35.39,
+      "state_id": 59,
+      "_average_household_net_yearly_income": 409700,
+      "_average_home_size_m2": 88.09,
+      "_recreational_properties_count": 806,
+      "_average_price_per_m2": 27097
+    }
+  },
+  {
+    "model": "targeter.administrativeunit",
+    "pk": 1077,
+    "fields": {
+      "name": "Pajala",
+      "population": 6300,
+      "area": 7840.19,
+      "state_id": 47,
+      "_average_household_net_yearly_income": 378500,
+      "_average_home_size_m2": 98.26,
+      "_recreational_properties_count": 2411,
+      "_average_price_per_m2": 5282
+    }
+  },
+  {
+    "model": "targeter.administrativeunit",
+    "pk": 1078,
+    "fields": {
+      "name": "Partille",
+      "population": 36097,
+      "area": 56.83,
+      "state_id": 43,
+      "_average_household_net_yearly_income": 576800,
+      "_average_home_size_m2": 97.78,
+      "_recreational_properties_count": 113,
+      "_average_price_per_m2": 53395
+    }
+  },
+  {
+    "model": "targeter.administrativeunit",
+    "pk": 1079,
+    "fields": {
+      "name": "Perstorp",
+      "population": 7104,
+      "area": 158.78,
+      "state_id": 53,
+      "_average_household_net_yearly_income": 402000,
+      "_average_home_size_m2": 96.14,
+      "_recreational_properties_count": 274,
+      "_average_price_per_m2": 13106
+    }
+  },
+  {
+    "model": "targeter.administrativeunit",
+    "pk": 1080,
+    "fields": {
+      "name": "Pite\u00e5",
+      "population": 41247,
+      "area": 3086.95,
+      "state_id": 47,
+      "_average_household_net_yearly_income": 440100,
+      "_average_home_size_m2": 95.7,
+      "_recreational_properties_count": 3754,
+      "_average_price_per_m2": 17597
+    }
+  },
+  {
+    "model": "targeter.administrativeunit",
+    "pk": 1081,
+    "fields": {
+      "name": "Ragunda",
+      "population": 5456,
+      "area": 2511.14,
+      "state_id": 51,
+      "_average_household_net_yearly_income": 365900,
+      "_average_home_size_m2": 103.79,
+      "_recreational_properties_count": 1412,
+      "_average_price_per_m2": 3998
+    }
+  },
+  {
+    "model": "targeter.administrativeunit",
+    "pk": 1082,
+    "fields": {
+      "name": "Robertsfors",
+      "population": 6734,
+      "area": 1292.21,
+      "state_id": 52,
+      "_average_household_net_yearly_income": 412800,
+      "_average_home_size_m2": 112.77,
+      "_recreational_properties_count": 1827,
+      "_average_price_per_m2": 8424
+    }
+  },
+  {
+    "model": "targeter.administrativeunit",
+    "pk": 1083,
+    "fields": {
+      "name": "Ronneby",
+      "population": 27874,
+      "area": 825.34,
+      "state_id": 63,
+      "_average_household_net_yearly_income": 409200,
+      "_average_home_size_m2": 99.15,
+      "_recreational_properties_count": 2904,
+      "_average_price_per_m2": 15149
+    }
+  },
+  {
+    "model": "targeter.administrativeunit",
+    "pk": 1084,
+    "fields": {
+      "name": "R\u00e4ttvik",
+      "population": 10778,
+      "area": 1920.66,
+      "state_id": 50,
+      "_average_household_net_yearly_income": 408600,
+      "_average_home_size_m2": 98.44,
+      "_recreational_properties_count": 2902,
+      "_average_price_per_m2": 16721
+    }
+  },
+  {
+    "model": "targeter.administrativeunit",
+    "pk": 1085,
+    "fields": {
+      "name": "Sala",
+      "population": 21766,
+      "area": 1166.85,
+      "state_id": 46,
+      "_average_household_net_yearly_income": 418300,
+      "_average_home_size_m2": 99.41,
+      "_recreational_properties_count": 1691,
+      "_average_price_per_m2": 20159
+    }
+  },
+  {
+    "model": "targeter.administrativeunit",
+    "pk": 1086,
+    "fields": {
+      "name": "Salem",
+      "population": 16006,
+      "area": 54.09,
+      "state_id": 56,
+      "_average_household_net_yearly_income": 580900,
+      "_average_home_size_m2": 107.97,
+      "_recreational_properties_count": 126,
+      "_average_price_per_m2": 42873
+    }
+  },
+  {
+    "model": "targeter.administrativeunit",
+    "pk": 1087,
+    "fields": {
+      "name": "Sandviken",
+      "population": 37179,
+      "area": 1166.4,
+      "state_id": 54,
+      "_average_household_net_yearly_income": 420900,
+      "_average_home_size_m2": 91.25,
+      "_recreational_properties_count": 2315,
+      "_average_price_per_m2": 18433
+    }
+  },
+  {
+    "model": "targeter.administrativeunit",
+    "pk": 1088,
+    "fields": {
+      "name": "Sigtuna",
+      "population": 43116,
+      "area": 327.4,
+      "state_id": 56,
+      "_average_household_net_yearly_income": 521100,
+      "_average_home_size_m2": 89.81,
+      "_recreational_properties_count": 431,
+      "_average_price_per_m2": 50317
+    }
+  },
+  {
+    "model": "targeter.administrativeunit",
+    "pk": 1089,
+    "fields": {
+      "name": "Simrishamn",
+      "population": 18900,
+      "area": 391.36,
+      "state_id": 53,
+      "_average_household_net_yearly_income": 441300,
+      "_average_home_size_m2": 105.71,
+      "_recreational_properties_count": 4746,
+      "_average_price_per_m2": 23867
+    }
+  },
+  {
+    "model": "targeter.administrativeunit",
+    "pk": 1090,
+    "fields": {
+      "name": "Sj\u00f6bo",
+      "population": 18412,
+      "area": 492.17,
+      "state_id": 53,
+      "_average_household_net_yearly_income": 440600,
+      "_average_home_size_m2": 106.98,
+      "_recreational_properties_count": 1270,
+      "_average_price_per_m2": 15966
+    }
+  },
+  {
+    "model": "targeter.administrativeunit",
+    "pk": 1091,
+    "fields": {
+      "name": "Skara",
+      "population": 18472,
+      "area": 428.65,
+      "state_id": 43,
+      "_average_household_net_yearly_income": 445500,
+      "_average_home_size_m2": 100.93,
+      "_recreational_properties_count": 449,
+      "_average_price_per_m2": 16655
+    }
+  },
+  {
+    "model": "targeter.administrativeunit",
+    "pk": 1092,
+    "fields": {
+      "name": "Skellefte\u00e5",
+      "population": 71927,
+      "area": 6802.85,
+      "state_id": 52,
+      "_average_household_net_yearly_income": 442500,
+      "_average_home_size_m2": 96.44,
+      "_recreational_properties_count": 7587,
+      "_average_price_per_m2": 17783
+    }
+  },
+  {
+    "model": "targeter.administrativeunit",
+    "pk": 1093,
+    "fields": {
+      "name": "Skinnskatteberg",
+      "population": 4406,
+      "area": 659.43,
+      "state_id": 46,
+      "_average_household_net_yearly_income": 400600,
+      "_average_home_size_m2": 99.54,
+      "_recreational_properties_count": 1209,
+      "_average_price_per_m2": 8760
+    }
+  },
+  {
+    "model": "targeter.administrativeunit",
+    "pk": 1094,
+    "fields": {
+      "name": "Skurup",
+      "population": 14997,
+      "area": 193.58,
+      "state_id": 53,
+      "_average_household_net_yearly_income": 475800,
+      "_average_home_size_m2": 112.18,
+      "_recreational_properties_count": 529,
+      "_average_price_per_m2": 22669
+    }
+  },
+  {
+    "model": "targeter.administrativeunit",
+    "pk": 1095,
+    "fields": {
+      "name": "Sk\u00f6vde",
+      "population": 52673,
+      "area": 673.68,
+      "state_id": 43,
+      "_average_household_net_yearly_income": 452300,
+      "_average_home_size_m2": 95.56,
+      "_recreational_properties_count": 991,
+      "_average_price_per_m2": 27857
+    }
+  },
+  {
+    "model": "targeter.administrativeunit",
+    "pk": 1096,
+    "fields": {
+      "name": "Smedjebacken",
+      "population": 10727,
+      "area": 947.92,
+      "state_id": 50,
+      "_average_household_net_yearly_income": 1670900,
+      "_average_home_size_m2": 99.38,
+      "_recreational_properties_count": 1982,
+      "_average_price_per_m2": 13091
+    }
+  },
+  {
+    "model": "targeter.administrativeunit",
+    "pk": 1097,
+    "fields": {
+      "name": "Sollefte\u00e5",
+      "population": 19576,
+      "area": 5397.82,
+      "state_id": 62,
+      "_average_household_net_yearly_income": 368200,
+      "_average_home_size_m2": 97.83,
+      "_recreational_properties_count": 3497,
+      "_average_price_per_m2": 5786
+    }
+  },
+  {
+    "model": "targeter.administrativeunit",
+    "pk": 1098,
+    "fields": {
+      "name": "Sollentuna",
+      "population": 67846,
+      "area": 52.64,
+      "state_id": 56,
+      "_average_household_net_yearly_income": 668400,
+      "_average_home_size_m2": 100.19,
+      "_recreational_properties_count": 285,
+      "_average_price_per_m2": 67093
+    }
+  },
+  {
+    "model": "targeter.administrativeunit",
+    "pk": 1099,
+    "fields": {
+      "name": "Solna",
+      "population": 72495,
+      "area": 19.3,
+      "state_id": 56,
+      "_average_household_net_yearly_income": 542300,
+      "_average_home_size_m2": 70.3,
+      "_recreational_properties_count": 47,
+      "_average_price_per_m2": 126230
+    }
+  },
+  {
+    "model": "targeter.administrativeunit",
+    "pk": 1100,
+    "fields": {
+      "name": "Sorsele",
+      "population": 2620,
+      "area": 7368.44,
+      "state_id": 52,
+      "_average_household_net_yearly_income": 369600,
+      "_average_home_size_m2": 95.07,
+      "_recreational_properties_count": 1153,
+      "_average_price_per_m2": 5112
+    }
+  },
+  {
+    "model": "targeter.administrativeunit",
+    "pk": 1101,
+    "fields": {
+      "name": "Soten\u00e4s",
+      "population": 8950,
+      "area": 138.21,
+      "state_id": 43,
+      "_average_household_net_yearly_income": 502500,
+      "_average_home_size_m2": 95.01,
+      "_recreational_properties_count": 4216,
+      "_average_price_per_m2": 39627
+    }
+  },
+  {
+    "model": "targeter.administrativeunit",
+    "pk": 1102,
+    "fields": {
+      "name": "Staffanstorp",
+      "population": 22615,
+      "area": 106.82,
+      "state_id": 53,
+      "_average_household_net_yearly_income": 568700,
+      "_average_home_size_m2": 114.31,
+      "_recreational_properties_count": 157,
+      "_average_price_per_m2": 31913
+    }
+  },
+  {
+    "model": "targeter.administrativeunit",
+    "pk": 1103,
+    "fields": {
+      "name": "Stenungsund",
+      "population": 24911,
+      "area": 251.91,
+      "state_id": 43,
+      "_average_household_net_yearly_income": 547000,
+      "_average_home_size_m2": 104.65,
+      "_recreational_properties_count": 1050,
+      "_average_price_per_m2": 36187
+    }
+  },
+  {
+    "model": "targeter.administrativeunit",
+    "pk": 1104,
+    "fields": {
+      "name": "Stockholm",
+      "population": 955397,
+      "area": 187.17,
+      "state_id": 56,
+      "_average_household_net_yearly_income": 601800,
+      "_average_home_size_m2": 71.57,
+      "_recreational_properties_count": 2152,
+      "_average_price_per_m2": 101118
+    }
+  },
+  {
+    "model": "targeter.administrativeunit",
+    "pk": 1105,
+    "fields": {
+      "name": "Storfors",
+      "population": 4120,
+      "area": 391.47,
+      "state_id": 48,
+      "_average_household_net_yearly_income": 398200,
+      "_average_home_size_m2": 103.88,
+      "_recreational_properties_count": 963,
+      "_average_price_per_m2": 6007
+    }
+  },
+  {
+    "model": "targeter.administrativeunit",
+    "pk": 1106,
+    "fields": {
+      "name": "Storuman",
+      "population": 5973,
+      "area": 7303.53,
+      "state_id": 52,
+      "_average_household_net_yearly_income": 378900,
+      "_average_home_size_m2": 96.66,
+      "_recreational_properties_count": 4200,
+      "_average_price_per_m2": 7304
+    }
+  },
+  {
+    "model": "targeter.administrativeunit",
+    "pk": 1107,
+    "fields": {
+      "name": "Str\u00e4ngn\u00e4s",
+      "population": 33269,
+      "area": 739.7,
+      "state_id": 59,
+      "_average_household_net_yearly_income": 516600,
+      "_average_home_size_m2": 100.25,
+      "_recreational_properties_count": 3260,
+      "_average_price_per_m2": 33257
+    }
+  },
+  {
+    "model": "targeter.administrativeunit",
+    "pk": 1108,
+    "fields": {
+      "name": "Str\u00f6mstad",
+      "population": 12454,
+      "area": 467.48,
+      "state_id": 43,
+      "_average_household_net_yearly_income": 503200,
+      "_average_home_size_m2": 94.19,
+      "_recreational_properties_count": 3872,
+      "_average_price_per_m2": 32562
+    }
+  },
+  {
+    "model": "targeter.administrativeunit",
+    "pk": 1109,
+    "fields": {
+      "name": "Str\u00f6msund",
+      "population": 11982,
+      "area": 10465.08,
+      "state_id": 51,
+      "_average_household_net_yearly_income": 363000,
+      "_average_home_size_m2": 97.89,
+      "_recreational_properties_count": 3858,
+      "_average_price_per_m2": 6037
+    }
+  },
+  {
+    "model": "targeter.administrativeunit",
+    "pk": 1110,
+    "fields": {
+      "name": "Sundbyberg",
+      "population": 42211,
+      "area": 8.67,
+      "state_id": 56,
+      "_average_household_net_yearly_income": 519100,
+      "_average_home_size_m2": 69.76,
+      "_recreational_properties_count": 20,
+      "_average_price_per_m2": 116399
+    }
+  },
+  {
+    "model": "targeter.administrativeunit",
+    "pk": 1111,
+    "fields": {
+      "name": "Sundsvall",
+      "population": 96977,
+      "area": 3189.61,
+      "state_id": 62,
+      "_average_household_net_yearly_income": 449100,
+      "_average_home_size_m2": 90.35,
+      "_recreational_properties_count": 5546,
+      "_average_price_per_m2": 24881
+    }
+  },
+  {
+    "model": "targeter.administrativeunit",
+    "pk": 1112,
+    "fields": {
+      "name": "Sunne",
+      "population": 13046,
+      "area": 1288.11,
+      "state_id": 48,
+      "_average_household_net_yearly_income": 405900,
+      "_average_home_size_m2": 106.06,
+      "_recreational_properties_count": 2114,
+      "_average_price_per_m2": 12106
+    }
+  },
+  {
+    "model": "targeter.administrativeunit",
+    "pk": 1113,
+    "fields": {
+      "name": "Surahammar",
+      "population": 9823,
+      "area": 343.81,
+      "state_id": 46,
+      "_average_household_net_yearly_income": 414600,
+      "_average_home_size_m2": 98.13,
+      "_recreational_properties_count": 420,
+      "_average_price_per_m2": 15276
+    }
+  },
+  {
+    "model": "targeter.administrativeunit",
+    "pk": 1114,
+    "fields": {
+      "name": "Sval\u00f6v",
+      "population": 13286,
+      "area": 387.3,
+      "state_id": 53,
+      "_average_household_net_yearly_income": 461800,
+      "_average_home_size_m2": 111.35,
+      "_recreational_properties_count": 405,
+      "_average_price_per_m2": 16057
+    }
+  },
+  {
+    "model": "targeter.administrativeunit",
+    "pk": 1115,
+    "fields": {
+      "name": "Svedala",
+      "population": 20080,
+      "area": 218.05,
+      "state_id": 53,
+      "_average_household_net_yearly_income": 536100,
+      "_average_home_size_m2": 110.42,
+      "_recreational_properties_count": 136,
+      "_average_price_per_m2": 29189
+    }
+  },
+  {
+    "model": "targeter.administrativeunit",
+    "pk": 1116,
+    "fields": {
+      "name": "Svenljunga",
+      "population": 10279,
+      "area": 919.76,
+      "state_id": 43,
+      "_average_household_net_yearly_income": 562200,
+      "_average_home_size_m2": 108.21,
+      "_recreational_properties_count": 1142,
+      "_average_price_per_m2": 11921
+    }
+  },
+  {
+    "model": "targeter.administrativeunit",
+    "pk": 1117,
+    "fields": {
+      "name": "S\u00e4ffle",
+      "population": 15288,
+      "area": 1259.81,
+      "state_id": 48,
+      "_average_household_net_yearly_income": 383500,
+      "_average_home_size_m2": 101.53,
+      "_recreational_properties_count": 2034,
+      "_average_price_per_m2": 11248
+    }
+  },
+  {
+    "model": "targeter.administrativeunit",
+    "pk": 1118,
+    "fields": {
+      "name": "S\u00e4ter",
+      "population": 10929,
+      "area": 570.33,
+      "state_id": 50,
+      "_average_household_net_yearly_income": 437600,
+      "_average_home_size_m2": 101.65,
+      "_recreational_properties_count": 1520,
+      "_average_price_per_m2": 18141
+    }
+  },
+  {
+    "model": "targeter.administrativeunit",
+    "pk": 1119,
+    "fields": {
+      "name": "S\u00e4vsj\u00f6",
+      "population": 10953,
+      "area": 679.05,
+      "state_id": 45,
+      "_average_household_net_yearly_income": 430600,
+      "_average_home_size_m2": 110.37,
+      "_recreational_properties_count": 716,
+      "_average_price_per_m2": 10891
+    }
+  },
+  {
+    "model": "targeter.administrativeunit",
+    "pk": 1120,
+    "fields": {
+      "name": "S\u00f6derhamn",
+      "population": 25425,
+      "area": 1060.77,
+      "state_id": 54,
+      "_average_household_net_yearly_income": 394300,
+      "_average_home_size_m2": 94.43,
+      "_recreational_properties_count": 3757,
+      "_average_price_per_m2": 12824
+    }
+  },
+  {
+    "model": "targeter.administrativeunit",
+    "pk": 1121,
+    "fields": {
+      "name": "S\u00f6derk\u00f6ping",
+      "population": 14195,
+      "area": 673.85,
+      "state_id": 57,
+      "_average_household_net_yearly_income": 490300,
+      "_average_home_size_m2": 103.91,
+      "_recreational_properties_count": 2389,
+      "_average_price_per_m2": 26119
+    }
+  },
+  {
+    "model": "targeter.administrativeunit",
+    "pk": 1122,
+    "fields": {
+      "name": "S\u00f6dert\u00e4lje",
+      "population": 90677,
+      "area": 525.15,
+      "state_id": 56,
+      "_average_household_net_yearly_income": 457800,
+      "_average_home_size_m2": 83.51,
+      "_recreational_properties_count": 2336,
+      "_average_price_per_m2": 44965
+    }
+  },
+  {
+    "model": "targeter.administrativeunit",
+    "pk": 1123,
+    "fields": {
+      "name": "S\u00f6lvesborg",
+      "population": 16807,
+      "area": 185.31,
+      "state_id": 63,
+      "_average_household_net_yearly_income": 430800,
+      "_average_home_size_m2": 103.09,
+      "_recreational_properties_count": 3162,
+      "_average_price_per_m2": 16966
+    }
+  },
+  {
+    "model": "targeter.administrativeunit",
+    "pk": 1124,
+    "fields": {
+      "name": "Tanum",
+      "population": 12287,
+      "area": 917.24,
+      "state_id": 43,
+      "_average_household_net_yearly_income": 457500,
+      "_average_home_size_m2": 100.17,
+      "_recreational_properties_count": 6572,
+      "_average_price_per_m2": 27713
+    }
+  },
+  {
+    "model": "targeter.administrativeunit",
+    "pk": 1125,
+    "fields": {
+      "name": "Tibro",
+      "population": 10725,
+      "area": 220.65,
+      "state_id": 43,
+      "_average_household_net_yearly_income": 406900,
+      "_average_home_size_m2": 100.6,
+      "_recreational_properties_count": 668,
+      "_average_price_per_m2": 13330
+    }
+  },
+  {
+    "model": "targeter.administrativeunit",
+    "pk": 1126,
+    "fields": {
+      "name": "Tidaholm",
+      "population": 12578,
+      "area": 518.06,
+      "state_id": 43,
+      "_average_household_net_yearly_income": 425800,
+      "_average_home_size_m2": 102.2,
+      "_recreational_properties_count": 551,
+      "_average_price_per_m2": 14599
+    }
+  },
+  {
+    "model": "targeter.administrativeunit",
+    "pk": 1127,
+    "fields": {
+      "name": "Tierp",
+      "population": 20172,
+      "area": 1547.78,
+      "state_id": 58,
+      "_average_household_net_yearly_income": 412800,
+      "_average_home_size_m2": 99.15,
+      "_recreational_properties_count": 2603,
+      "_average_price_per_m2": 16712
+    }
+  },
+  {
+    "model": "targeter.administrativeunit",
+    "pk": 1128,
+    "fields": {
+      "name": "Timr\u00e5",
+      "population": 18067,
+      "area": 783.3,
+      "state_id": 62,
+      "_average_household_net_yearly_income": 426600,
+      "_average_home_size_m2": 94.93,
+      "_recreational_properties_count": 1297,
+      "_average_price_per_m2": 15548
+    }
+  },
+  {
+    "model": "targeter.administrativeunit",
+    "pk": 1129,
+    "fields": {
+      "name": "Tingsryd",
+      "population": 12146,
+      "area": 1044.88,
+      "state_id": 44,
+      "_average_household_net_yearly_income": 406300,
+      "_average_home_size_m2": 112.53,
+      "_recreational_properties_count": 1955,
+      "_average_price_per_m2": 8442
+    }
+  },
+  {
+    "model": "targeter.administrativeunit",
+    "pk": 1130,
+    "fields": {
+      "name": "Tj\u00f6rn",
+      "population": 15047,
+      "area": 167.36,
+      "state_id": 43,
+      "_average_household_net_yearly_income": 554200,
+      "_average_home_size_m2": 105.33,
+      "_recreational_properties_count": 4274,
+      "_average_price_per_m2": 32764
+    }
+  },
+  {
+    "model": "targeter.administrativeunit",
+    "pk": 1131,
+    "fields": {
+      "name": "Tomelilla",
+      "population": 12900,
+      "area": 395.94,
+      "state_id": 53,
+      "_average_household_net_yearly_income": 420800,
+      "_average_home_size_m2": 107.48,
+      "_recreational_properties_count": 1334,
+      "_average_price_per_m2": 15510
+    }
+  },
+  {
+    "model": "targeter.administrativeunit",
+    "pk": 1132,
+    "fields": {
+      "name": "Torsby",
+      "population": 12037,
+      "area": 4162.19,
+      "state_id": 48,
+      "_average_household_net_yearly_income": 375700,
+      "_average_home_size_m2": 98.14,
+      "_recreational_properties_count": 3792,
+      "_average_price_per_m2": 12207
+    }
+  },
+  {
+    "model": "targeter.administrativeunit",
+    "pk": 1133,
+    "fields": {
+      "name": "Tors\u00e5s",
+      "population": 6867,
+      "area": 468.41,
+      "state_id": 55,
+      "_average_household_net_yearly_income": 406600,
+      "_average_home_size_m2": 108.41,
+      "_recreational_properties_count": 1446,
+      "_average_price_per_m2": 8855
+    }
+  },
+  {
+    "model": "targeter.administrativeunit",
+    "pk": 1134,
+    "fields": {
+      "name": "Tranemo",
+      "population": 11566,
+      "area": 741.27,
+      "state_id": 43,
+      "_average_household_net_yearly_income": 465900,
+      "_average_home_size_m2": 109.75,
+      "_recreational_properties_count": 705,
+      "_average_price_per_m2": 10342
+    }
+  },
+  {
+    "model": "targeter.administrativeunit",
+    "pk": 1135,
+    "fields": {
+      "name": "Tran\u00e5s",
+      "population": 18185,
+      "area": 402.66,
+      "state_id": 45,
+      "_average_household_net_yearly_income": 423500,
+      "_average_home_size_m2": 97.65,
+      "_recreational_properties_count": 628,
+      "_average_price_per_m2": 21546
+    }
+  },
+  {
+    "model": "targeter.administrativeunit",
+    "pk": 1136,
+    "fields": {
+      "name": "Trelleborg",
+      "population": 42774,
+      "area": 339.87,
+      "state_id": 53,
+      "_average_household_net_yearly_income": 469400,
+      "_average_home_size_m2": 101.88,
+      "_recreational_properties_count": 1745,
+      "_average_price_per_m2": 29594
+    }
+  },
+  {
+    "model": "targeter.administrativeunit",
+    "pk": 1137,
+    "fields": {
+      "name": "Trollh\u00e4ttan",
+      "population": 56393,
+      "area": 409.88,
+      "state_id": 43,
+      "_average_household_net_yearly_income": 437700,
+      "_average_home_size_m2": 89.55,
+      "_recreational_properties_count": 618,
+      "_average_price_per_m2": 30631
+    }
+  },
+  {
+    "model": "targeter.administrativeunit",
+    "pk": 1138,
+    "fields": {
+      "name": "Trosa",
+      "population": 11619,
+      "area": 209.73,
+      "state_id": 59,
+      "_average_household_net_yearly_income": 562700,
+      "_average_home_size_m2": 97.74,
+      "_recreational_properties_count": 1868,
+      "_average_price_per_m2": 33548
+    }
+  },
+  {
+    "model": "targeter.administrativeunit",
+    "pk": 1139,
+    "fields": {
+      "name": "Tyres\u00f6",
+      "population": 44057,
+      "area": 69.25,
+      "state_id": 56,
+      "_average_household_net_yearly_income": 600100,
+      "_average_home_size_m2": 96.21,
+      "_recreational_properties_count": 950,
+      "_average_price_per_m2": 58133
+    }
+  },
+  {
+    "model": "targeter.administrativeunit",
+    "pk": 1140,
+    "fields": {
+      "name": "T\u00e4by",
+      "population": 66161,
+      "area": 60.72,
+      "state_id": 56,
+      "_average_household_net_yearly_income": 741700,
+      "_average_home_size_m2": 106.92,
+      "_recreational_properties_count": 377,
+      "_average_price_per_m2": 64516
+    }
+  },
+  {
+    "model": "targeter.administrativeunit",
+    "pk": 1141,
+    "fields": {
+      "name": "T\u00f6reboda",
+      "population": 8972,
+      "area": 539.85,
+      "state_id": 43,
+      "_average_household_net_yearly_income": 394800,
+      "_average_home_size_m2": 102.04,
+      "_recreational_properties_count": 875,
+      "_average_price_per_m2": 9898
+    }
+  },
+  {
+    "model": "targeter.administrativeunit",
+    "pk": 1142,
+    "fields": {
+      "name": "Uddevalla",
+      "population": 52886,
+      "area": 637.69,
+      "state_id": 43,
+      "_average_household_net_yearly_income": 442600,
+      "_average_home_size_m2": 88.86,
+      "_recreational_properties_count": 3663,
+      "_average_price_per_m2": 31702
+    }
+  },
+  {
+    "model": "targeter.administrativeunit",
+    "pk": 1143,
+    "fields": {
+      "name": "Ulricehamn",
+      "population": 23127,
+      "area": 1046.02,
+      "state_id": 43,
+      "_average_household_net_yearly_income": 466700,
+      "_average_home_size_m2": 105.57,
+      "_recreational_properties_count": 1486,
+      "_average_price_per_m2": 16596
+    }
+  },
+  {
+    "model": "targeter.administrativeunit",
+    "pk": 1144,
+    "fields": {
+      "name": "Ume\u00e5",
+      "population": 118034,
+      "area": 2316.61,
+      "state_id": 52,
+      "_average_household_net_yearly_income": 442700,
+      "_average_home_size_m2": 88.43,
+      "_recreational_properties_count": 5192,
+      "_average_price_per_m2": 39602
+    }
+  },
+  {
+    "model": "targeter.administrativeunit",
+    "pk": 1145,
+    "fields": {
+      "name": "Upplands V\u00e4sby",
+      "population": 41380,
+      "area": 75.09,
+      "state_id": 56,
+      "_average_household_net_yearly_income": 516800,
+      "_average_home_size_m2": 88.19,
+      "_recreational_properties_count": 146,
+      "_average_price_per_m2": 53090
+    }
+  },
+  {
+    "model": "targeter.administrativeunit",
+    "pk": 1146,
+    "fields": {
+      "name": "Upplands-Bro",
+      "population": 24569,
+      "area": 235.47,
+      "state_id": 56,
+      "_average_household_net_yearly_income": 530800,
+      "_average_home_size_m2": 92.18,
+      "_recreational_properties_count": 888,
+      "_average_price_per_m2": 45031
+    }
+  },
+  {
+    "model": "targeter.administrativeunit",
+    "pk": 1147,
+    "fields": {
+      "name": "Uppsala",
+      "population": 204639,
+      "area": 2182.8,
+      "state_id": 58,
+      "_average_household_net_yearly_income": 481200,
+      "_average_home_size_m2": 86.28,
+      "_recreational_properties_count": 3809,
+      "_average_price_per_m2": 45932
+    }
+  },
+  {
+    "model": "targeter.administrativeunit",
+    "pk": 1148,
+    "fields": {
+      "name": "Uppvidinge",
+      "population": 9226,
+      "area": 1171.88,
+      "state_id": 44,
+      "_average_household_net_yearly_income": 430600,
+      "_average_home_size_m2": 109.41,
+      "_recreational_properties_count": 1039,
+      "_average_price_per_m2": 7129
+    }
+  },
+  {
+    "model": "targeter.administrativeunit",
+    "pk": 1149,
+    "fields": {
+      "name": "Vadstena",
+      "population": 7367,
+      "area": 181.91,
+      "state_id": 57,
+      "_average_household_net_yearly_income": 446500,
+      "_average_home_size_m2": 101.68,
+      "_recreational_properties_count": 560,
+      "_average_price_per_m2": 20948
+    }
+  },
+  {
+    "model": "targeter.administrativeunit",
+    "pk": 1150,
+    "fields": {
+      "name": "Vaggeryd",
+      "population": 13193,
+      "area": 824.94,
+      "state_id": 45,
+      "_average_household_net_yearly_income": 484600,
+      "_average_home_size_m2": 113.19,
+      "_recreational_properties_count": 667,
+      "_average_price_per_m2": 16344
+    }
+  },
+  {
+    "model": "targeter.administrativeunit",
+    "pk": 1151,
+    "fields": {
+      "name": "Valdemarsvik",
+      "population": 7604,
+      "area": 733.82,
+      "state_id": 57,
+      "_average_household_net_yearly_income": 390200,
+      "_average_home_size_m2": 102.08,
+      "_recreational_properties_count": 2807,
+      "_average_price_per_m2": 13098
+    }
+  },
+  {
+    "model": "targeter.administrativeunit",
+    "pk": 1152,
+    "fields": {
+      "name": "Vallentuna",
+      "population": 31523,
+      "area": 358.36,
+      "state_id": 56,
+      "_average_household_net_yearly_income": 614800,
+      "_average_home_size_m2": 106.63,
+      "_recreational_properties_count": 822,
+      "_average_price_per_m2": 42296
+    }
+  },
+  {
+    "model": "targeter.administrativeunit",
+    "pk": 1153,
+    "fields": {
+      "name": "Vansbro",
+      "population": 6735,
+      "area": 1539.57,
+      "state_id": 50,
+      "_average_household_net_yearly_income": 372700,
+      "_average_home_size_m2": 99.73,
+      "_recreational_properties_count": 1930,
+      "_average_price_per_m2": 7049
+    }
+  },
+  {
+    "model": "targeter.administrativeunit",
+    "pk": 1154,
+    "fields": {
+      "name": "Vara",
+      "population": 15637,
+      "area": 696.93,
+      "state_id": 43,
+      "_average_household_net_yearly_income": 439400,
+      "_average_home_size_m2": 110.46,
+      "_recreational_properties_count": 709,
+      "_average_price_per_m2": 11153
+    }
+  },
+  {
+    "model": "targeter.administrativeunit",
+    "pk": 1155,
+    "fields": {
+      "name": "Varberg",
+      "population": 59779,
+      "area": 868.71,
+      "state_id": 60,
+      "_average_household_net_yearly_income": 509400,
+      "_average_home_size_m2": 101.68,
+      "_recreational_properties_count": 5191,
+      "_average_price_per_m2": 33625
+    }
+  },
+  {
+    "model": "targeter.administrativeunit",
+    "pk": 1156,
+    "fields": {
+      "name": "Vaxholm",
+      "population": 11196,
+      "area": 57.88,
+      "state_id": 56,
+      "_average_household_net_yearly_income": 737700,
+      "_average_home_size_m2": 105.96,
+      "_recreational_properties_count": 1746,
+      "_average_price_per_m2": 70291
+    }
+  },
+  {
+    "model": "targeter.administrativeunit",
+    "pk": 1157,
+    "fields": {
+      "name": "Vellinge",
+      "population": 33806,
+      "area": 142.61,
+      "state_id": 53,
+      "_average_household_net_yearly_income": 740200,
+      "_average_home_size_m2": 133.83,
+      "_recreational_properties_count": 1887,
+      "_average_price_per_m2": 42972
+    }
+  },
+  {
+    "model": "targeter.administrativeunit",
+    "pk": 1158,
+    "fields": {
+      "name": "Vetlanda",
+      "population": 26362,
+      "area": 1500.51,
+      "state_id": 45,
+      "_average_household_net_yearly_income": 433200,
+      "_average_home_size_m2": 109.85,
+      "_recreational_properties_count": 1898,
+      "_average_price_per_m2": 12071
+    }
+  },
+  {
+    "model": "targeter.administrativeunit",
+    "pk": 1159,
+    "fields": {
+      "name": "Vilhelmina",
+      "population": 6924,
+      "area": 8047.87,
+      "state_id": 52,
+      "_average_household_net_yearly_income": 359100,
+      "_average_home_size_m2": 91.94,
+      "_recreational_properties_count": 3444,
+      "_average_price_per_m2": 6896
+    }
+  },
+  {
+    "model": "targeter.administrativeunit",
+    "pk": 1160,
+    "fields": {
+      "name": "Vimmerby",
+      "population": 15315,
+      "area": 1140.23,
+      "state_id": 55,
+      "_average_household_net_yearly_income": 423100,
+      "_average_home_size_m2": 103.77,
+      "_recreational_properties_count": 1286,
+      "_average_price_per_m2": 14494
+    }
+  },
+  {
+    "model": "targeter.administrativeunit",
+    "pk": 1161,
+    "fields": {
+      "name": "Vindeln",
+      "population": 5330,
+      "area": 2629.37,
+      "state_id": 52,
+      "_average_household_net_yearly_income": 409400,
+      "_average_home_size_m2": 111.7,
+      "_recreational_properties_count": 1103,
+      "_average_price_per_m2": 8209
+    }
+  },
+  {
+    "model": "targeter.administrativeunit",
+    "pk": 1162,
+    "fields": {
+      "name": "Ving\u00e5ker",
+      "population": 8818,
+      "area": 370.27,
+      "state_id": 59,
+      "_average_household_net_yearly_income": 413400,
+      "_average_home_size_m2": 99.69,
+      "_recreational_properties_count": 1167,
+      "_average_price_per_m2": 16170
+    }
+  },
+  {
+    "model": "targeter.administrativeunit",
+    "pk": 1163,
+    "fields": {
+      "name": "V\u00e5rg\u00e5rda",
+      "population": 11066,
+      "area": 426.6,
+      "state_id": 43,
+      "_average_household_net_yearly_income": 460100,
+      "_average_home_size_m2": 105.61,
+      "_recreational_properties_count": 461,
+      "_average_price_per_m2": 19260
+    }
+  },
+  {
+    "model": "targeter.administrativeunit",
+    "pk": 1164,
+    "fields": {
+      "name": "V\u00e4nersborg",
+      "population": 37240,
+      "area": 642.7,
+      "state_id": 43,
+      "_average_household_net_yearly_income": 432400,
+      "_average_home_size_m2": 95.74,
+      "_recreational_properties_count": 1615,
+      "_average_price_per_m2": 20921
+    }
+  },
+  {
+    "model": "targeter.administrativeunit",
+    "pk": 1165,
+    "fields": {
+      "name": "V\u00e4nn\u00e4s",
+      "population": 8578,
+      "area": 529.49,
+      "state_id": 52,
+      "_average_household_net_yearly_income": 436800,
+      "_average_home_size_m2": 104.0,
+      "_recreational_properties_count": 583,
+      "_average_price_per_m2": 15154
+    }
+  },
+  {
+    "model": "targeter.administrativeunit",
+    "pk": 1166,
+    "fields": {
+      "name": "V\u00e4rmd\u00f6",
+      "population": 39757,
+      "area": 448.03,
+      "state_id": 56,
+      "_average_household_net_yearly_income": 645300,
+      "_average_home_size_m2": 94.28,
+      "_recreational_properties_count": 14126,
+      "_average_price_per_m2": 53893
+    }
+  },
+  {
+    "model": "targeter.administrativeunit",
+    "pk": 1167,
+    "fields": {
+      "name": "V\u00e4rnamo",
+      "population": 33057,
+      "area": 1216.0,
+      "state_id": 45,
+      "_average_household_net_yearly_income": 492800,
+      "_average_home_size_m2": 103.66,
+      "_recreational_properties_count": 1289,
+      "_average_price_per_m2": 20336
+    }
+  },
+  {
+    "model": "targeter.administrativeunit",
+    "pk": 1168,
+    "fields": {
+      "name": "V\u00e4stervik",
+      "population": 35814,
+      "area": 1871.56,
+      "state_id": 55,
+      "_average_household_net_yearly_income": 416000,
+      "_average_home_size_m2": 94.46,
+      "_recreational_properties_count": 5529,
+      "_average_price_per_m2": 18685
+    }
+  },
+  {
+    "model": "targeter.administrativeunit",
+    "pk": 1169,
+    "fields": {
+      "name": "V\u00e4ster\u00e5s",
+      "population": 141845,
+      "area": 957.89,
+      "state_id": 46,
+      "_average_household_net_yearly_income": 480100,
+      "_average_home_size_m2": 90.71,
+      "_recreational_properties_count": 2598,
+      "_average_price_per_m2": 38695
+    }
+  },
+  {
+    "model": "targeter.administrativeunit",
+    "pk": 1170,
+    "fields": {
+      "name": "V\u00e4xj\u00f6",
+      "population": 85635,
+      "area": 1665.51,
+      "state_id": 44,
+      "_average_household_net_yearly_income": 478300,
+      "_average_home_size_m2": 101.6,
+      "_recreational_properties_count": 1862,
+      "_average_price_per_m2": 29744
+    }
+  },
+  {
+    "model": "targeter.administrativeunit",
+    "pk": 1171,
+    "fields": {
+      "name": "Ydre",
+      "population": 3590,
+      "area": 675.42,
+      "state_id": 57,
+      "_average_household_net_yearly_income": 475100,
+      "_average_home_size_m2": 118.92,
+      "_recreational_properties_count": 1063,
+      "_average_price_per_m2": 9477
+    }
+  },
+  {
+    "model": "targeter.administrativeunit",
+    "pk": 1172,
+    "fields": {
+      "name": "Ystad",
+      "population": 28593,
+      "area": 350.08,
+      "state_id": 53,
+      "_average_household_net_yearly_income": 480900,
+      "_average_home_size_m2": 99.71,
+      "_recreational_properties_count": 2308,
+      "_average_price_per_m2": 32073
+    }
+  },
+  {
+    "model": "targeter.administrativeunit",
+    "pk": 1173,
+    "fields": {
+      "name": "\u00c5m\u00e5l",
+      "population": 12203,
+      "area": 481.12,
+      "state_id": 43,
+      "_average_household_net_yearly_income": 380900,
+      "_average_home_size_m2": 99.48,
+      "_recreational_properties_count": 1211,
+      "_average_price_per_m2": 12264
+    }
+  },
+  {
+    "model": "targeter.administrativeunit",
+    "pk": 1174,
+    "fields": {
+      "name": "\u00c5nge",
+      "population": 9582,
+      "area": 3051.36,
+      "state_id": 62,
+      "_average_household_net_yearly_income": 379800,
+      "_average_home_size_m2": 102.05,
+      "_recreational_properties_count": 1850,
+      "_average_price_per_m2": 5282
+    }
+  },
+  {
+    "model": "targeter.administrativeunit",
+    "pk": 1175,
+    "fields": {
+      "name": "\u00c5re",
+      "population": 10378,
+      "area": 7199.45,
+      "state_id": 51,
+      "_average_household_net_yearly_income": 454900,
+      "_average_home_size_m2": 96.62,
+      "_recreational_properties_count": 5575,
+      "_average_price_per_m2": 25430
+    }
+  },
+  {
+    "model": "targeter.administrativeunit",
+    "pk": 1176,
+    "fields": {
+      "name": "\u00c5rj\u00e4ng",
+      "population": 9870,
+      "area": 1409.47,
+      "state_id": 48,
+      "_average_household_net_yearly_income": 359300,
+      "_average_home_size_m2": 99.19,
+      "_recreational_properties_count": 2470,
+      "_average_price_per_m2": 14255
+    }
+  },
+  {
+    "model": "targeter.administrativeunit",
+    "pk": 1177,
+    "fields": {
+      "name": "\u00c5sele",
+      "population": 2887,
+      "area": 4223.79,
+      "state_id": 52,
+      "_average_household_net_yearly_income": 348200,
+      "_average_home_size_m2": 103.81,
+      "_recreational_properties_count": 919,
+      "_average_price_per_m2": 3179
+    }
+  },
+  {
+    "model": "targeter.administrativeunit",
+    "pk": 1178,
+    "fields": {
+      "name": "\u00c5storp",
+      "population": 14896,
+      "area": 92.22,
+      "state_id": 53,
+      "_average_household_net_yearly_income": 441200,
+      "_average_home_size_m2": 102.67,
+      "_recreational_properties_count": 211,
+      "_average_price_per_m2": 17542
+    }
+  },
+  {
+    "model": "targeter.administrativeunit",
+    "pk": 1179,
+    "fields": {
+      "name": "\u00c5tvidaberg",
+      "population": 11456,
+      "area": 686.62,
+      "state_id": 57,
+      "_average_household_net_yearly_income": 441300,
+      "_average_home_size_m2": 105.51,
+      "_recreational_properties_count": 819,
+      "_average_price_per_m2": 18984
+    }
+  },
+  {
+    "model": "targeter.administrativeunit",
+    "pk": 1180,
+    "fields": {
+      "name": "\u00c4lmhult",
+      "population": 15759,
+      "area": 890.78,
+      "state_id": 44,
+      "_average_household_net_yearly_income": 476400,
+      "_average_home_size_m2": 106.8,
+      "_recreational_properties_count": 1475,
+      "_average_price_per_m2": 17818
+    }
+  },
+  {
+    "model": "targeter.administrativeunit",
+    "pk": 1181,
+    "fields": {
+      "name": "\u00c4lvdalen",
+      "population": 7086,
+      "area": 6871.51,
+      "state_id": 50,
+      "_average_household_net_yearly_income": 381600,
+      "_average_home_size_m2": 100.16,
+      "_recreational_properties_count": 4935,
+      "_average_price_per_m2": 11552
+    }
+  },
+  {
+    "model": "targeter.administrativeunit",
+    "pk": 1182,
+    "fields": {
+      "name": "\u00c4lvkarleby",
+      "population": 9161,
+      "area": 214.98,
+      "state_id": 58,
+      "_average_household_net_yearly_income": 418100,
+      "_average_home_size_m2": 96.31,
+      "_recreational_properties_count": 680,
+      "_average_price_per_m2": 16655
+    }
+  },
+  {
+    "model": "targeter.administrativeunit",
+    "pk": 1183,
+    "fields": {
+      "name": "\u00c4lvsbyn",
+      "population": 8182,
+      "area": 1698.04,
+      "state_id": 47,
+      "_average_household_net_yearly_income": 394300,
+      "_average_home_size_m2": 96.97,
+      "_recreational_properties_count": 921,
+      "_average_price_per_m2": 7456
+    }
+  },
+  {
+    "model": "targeter.administrativeunit",
+    "pk": 1184,
+    "fields": {
+      "name": "\u00c4ngelholm",
+      "population": 39821,
+      "area": 420.06,
+      "state_id": 53,
+      "_average_household_net_yearly_income": 515000,
+      "_average_home_size_m2": 104.05,
+      "_recreational_properties_count": 1610,
+      "_average_price_per_m2": 28429
+    }
+  },
+  {
+    "model": "targeter.administrativeunit",
+    "pk": 1185,
+    "fields": {
+      "name": "\u00d6cker\u00f6",
+      "population": 12559,
+      "area": 25.74,
+      "state_id": 43,
+      "_average_household_net_yearly_income": 624800,
+      "_average_home_size_m2": 118.51,
+      "_recreational_properties_count": 752,
+      "_average_price_per_m2": 41946
+    }
+  },
+  {
+    "model": "targeter.administrativeunit",
+    "pk": 1186,
+    "fields": {
+      "name": "\u00d6desh\u00f6g",
+      "population": 5192,
+      "area": 430.42,
+      "state_id": 57,
+      "_average_household_net_yearly_income": 427900,
+      "_average_home_size_m2": 112.81,
+      "_recreational_properties_count": 728,
+      "_average_price_per_m2": 11258
+    }
+  },
+  {
+    "model": "targeter.administrativeunit",
+    "pk": 1187,
+    "fields": {
+      "name": "\u00d6rebro",
+      "population": 140295,
+      "area": 1373.15,
+      "state_id": 49,
+      "_average_household_net_yearly_income": 441700,
+      "_average_home_size_m2": 87.55,
+      "_recreational_properties_count": 2871,
+      "_average_price_per_m2": 37407
+    }
+  },
+  {
+    "model": "targeter.administrativeunit",
+    "pk": 1188,
+    "fields": {
+      "name": "\u00d6rkelljunga",
+      "population": 9658,
+      "area": 319.55,
+      "state_id": 53,
+      "_average_household_net_yearly_income": 412100,
+      "_average_home_size_m2": 103.73,
+      "_recreational_properties_count": 1298,
+      "_average_price_per_m2": 11906
+    }
+  },
+  {
+    "model": "targeter.administrativeunit",
+    "pk": 1189,
+    "fields": {
+      "name": "\u00d6rnsk\u00f6ldsvik",
+      "population": 54993,
+      "area": 6376.46,
+      "state_id": 62,
+      "_average_household_net_yearly_income": 442400,
+      "_average_home_size_m2": 102.38,
+      "_recreational_properties_count": 5543,
+      "_average_price_per_m2": 13274
+    }
+  },
+  {
+    "model": "targeter.administrativeunit",
+    "pk": 1190,
+    "fields": {
+      "name": "\u00d6stersund",
+      "population": 59727,
+      "area": 2208.31,
+      "state_id": 51,
+      "_average_household_net_yearly_income": 434500,
+      "_average_home_size_m2": 86.23,
+      "_recreational_properties_count": 1881,
+      "_average_price_per_m2": 31381
+    }
+  },
+  {
+    "model": "targeter.administrativeunit",
+    "pk": 1191,
+    "fields": {
+      "name": "\u00d6ster\u00e5ker",
+      "population": 40414,
+      "area": 312.4,
+      "state_id": 56,
+      "_average_household_net_yearly_income": 646600,
+      "_average_home_size_m2": 112.21,
+      "_recreational_properties_count": 6127,
+      "_average_price_per_m2": 41405
+    }
+  },
+  {
+    "model": "targeter.administrativeunit",
+    "pk": 1192,
+    "fields": {
+      "name": "\u00d6sthammar",
+      "population": 21346,
+      "area": 1475.28,
+      "state_id": 58,
+      "_average_household_net_yearly_income": 444500,
+      "_average_home_size_m2": 100.9,
+      "_recreational_properties_count": 5909,
+      "_average_price_per_m2": 21843
+    }
+  },
+  {
+    "model": "targeter.administrativeunit",
+    "pk": 1193,
+    "fields": {
+      "name": "\u00d6stra G\u00f6inge",
+      "population": 13632,
+      "area": 431.96,
+      "state_id": 53,
+      "_average_household_net_yearly_income": 415900,
+      "_average_home_size_m2": 107.76,
+      "_recreational_properties_count": 883,
+      "_average_price_per_m2": 9215
+    }
+  },
+  {
+    "model": "targeter.administrativeunit",
+    "pk": 1194,
+    "fields": {
+      "name": "\u00d6verkalix",
+      "population": 3450,
+      "area": 2764.53,
+      "state_id": 47,
+      "_average_household_net_yearly_income": 376600,
+      "_average_home_size_m2": 99.39,
+      "_recreational_properties_count": 994,
+      "_average_price_per_m2": 4920
+    }
+  },
+  {
+    "model": "targeter.administrativeunit",
+    "pk": 1195,
+    "fields": {
+      "name": "\u00d6vertorne\u00e5",
+      "population": 4726,
+      "area": 2362.07,
+      "state_id": 47,
+      "_average_household_net_yearly_income": 380100,
+      "_average_home_size_m2": 101.07,
+      "_recreational_properties_count": 1034,
+      "_average_price_per_m2": 5086
+    }
+  }
+]

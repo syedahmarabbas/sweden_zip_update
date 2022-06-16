@@ -1,0 +1,10122 @@
+[
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Vallentuna",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7023
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "\u00d6ster\u00e5ker 0",
+      "coastal": true,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7024
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "\u00d6ster\u00e5ker 1",
+      "coastal": true,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7025
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "V\u00e4rmd\u00f6 0",
+      "coastal": true,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7026
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "V\u00e4rmd\u00f6 1",
+      "coastal": true,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7027
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "V\u00e4rmd\u00f6 2",
+      "coastal": true,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7028
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "J\u00e4rf\u00e4lla 0",
+      "coastal": false,
+      "_area_type": 0,
+      "country_id": 4
+    },
+    "pk": 7029
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "J\u00e4rf\u00e4lla 1",
+      "coastal": false,
+      "_area_type": 0,
+      "country_id": 4
+    },
+    "pk": 7030
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "J\u00e4rf\u00e4lla 2",
+      "coastal": false,
+      "_area_type": 0,
+      "country_id": 4
+    },
+    "pk": 7031
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Eker\u00f6 0",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7032
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Eker\u00f6 1",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7033
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Huddinge 0",
+      "coastal": false,
+      "_area_type": 1,
+      "country_id": 4
+    },
+    "pk": 7034
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Huddinge 1",
+      "coastal": false,
+      "_area_type": 1,
+      "country_id": 4
+    },
+    "pk": 7035
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Huddinge 2",
+      "coastal": false,
+      "_area_type": 1,
+      "country_id": 4
+    },
+    "pk": 7036
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Huddinge 3",
+      "coastal": false,
+      "_area_type": 1,
+      "country_id": 4
+    },
+    "pk": 7037
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Botkyrka 0",
+      "coastal": true,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7038
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Botkyrka 1",
+      "coastal": true,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7039
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Botkyrka 2",
+      "coastal": true,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7040
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Salem",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7041
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Haninge 0",
+      "coastal": true,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7042
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Haninge 1",
+      "coastal": true,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7043
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Haninge 2",
+      "coastal": true,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7044
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Haninge 3",
+      "coastal": true,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7045
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Tyres\u00f6",
+      "coastal": true,
+      "_area_type": 1,
+      "country_id": 4
+    },
+    "pk": 7046
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Nykvarn",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7047
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "T\u00e4by 0",
+      "coastal": true,
+      "_area_type": 0,
+      "country_id": 4
+    },
+    "pk": 7048
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "T\u00e4by 1",
+      "coastal": true,
+      "_area_type": 0,
+      "country_id": 4
+    },
+    "pk": 7049
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Danderyd",
+      "coastal": true,
+      "_area_type": 1,
+      "country_id": 4
+    },
+    "pk": 7050
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "S\u00f6dert\u00e4lje 0",
+      "coastal": true,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7051
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "S\u00f6dert\u00e4lje 1",
+      "coastal": true,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7052
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "S\u00f6dert\u00e4lje 2",
+      "coastal": true,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7053
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "S\u00f6dert\u00e4lje 3",
+      "coastal": true,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7054
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Nacka 0",
+      "coastal": true,
+      "_area_type": 1,
+      "country_id": 4
+    },
+    "pk": 7055
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Nacka 1",
+      "coastal": true,
+      "_area_type": 1,
+      "country_id": 4
+    },
+    "pk": 7056
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Nacka 2",
+      "coastal": true,
+      "_area_type": 1,
+      "country_id": 4
+    },
+    "pk": 7057
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Nacka 3",
+      "coastal": true,
+      "_area_type": 1,
+      "country_id": 4
+    },
+    "pk": 7058
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Sundbyberg 0",
+      "coastal": false,
+      "_area_type": 0,
+      "country_id": 4
+    },
+    "pk": 7059
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Sundbyberg 1",
+      "coastal": false,
+      "_area_type": 0,
+      "country_id": 4
+    },
+    "pk": 7060
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Solna 0",
+      "coastal": true,
+      "_area_type": 0,
+      "country_id": 4
+    },
+    "pk": 7061
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Solna 1",
+      "coastal": true,
+      "_area_type": 0,
+      "country_id": 4
+    },
+    "pk": 7062
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Solna 2",
+      "coastal": true,
+      "_area_type": 0,
+      "country_id": 4
+    },
+    "pk": 7063
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Solna 3",
+      "coastal": true,
+      "_area_type": 0,
+      "country_id": 4
+    },
+    "pk": 7064
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Solna 4",
+      "coastal": true,
+      "_area_type": 0,
+      "country_id": 4
+    },
+    "pk": 7065
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Liding\u00f6",
+      "coastal": true,
+      "_area_type": 0,
+      "country_id": 4
+    },
+    "pk": 7066
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Vaxholm 0",
+      "coastal": true,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7067
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Vaxholm 1",
+      "coastal": true,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7068
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Norrt\u00e4lje 0",
+      "coastal": true,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7069
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Norrt\u00e4lje 1",
+      "coastal": true,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7070
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Norrt\u00e4lje 2",
+      "coastal": true,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7071
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Norrt\u00e4lje 3",
+      "coastal": true,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7072
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Nyn\u00e4shamn 0",
+      "coastal": true,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7073
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Nyn\u00e4shamn 1",
+      "coastal": true,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7074
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Nyn\u00e4shamn 2",
+      "coastal": true,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7075
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Nyn\u00e4shamn 3",
+      "coastal": true,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7076
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Stockholm 0",
+      "coastal": true,
+      "_area_type": 0,
+      "country_id": 4
+    },
+    "pk": 7077
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Stockholm 1",
+      "coastal": true,
+      "_area_type": 0,
+      "country_id": 4
+    },
+    "pk": 7078
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Stockholm 2",
+      "coastal": true,
+      "_area_type": 0,
+      "country_id": 4
+    },
+    "pk": 7079
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Sollentuna 0",
+      "coastal": true,
+      "_area_type": 0,
+      "country_id": 4
+    },
+    "pk": 7080
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Sollentuna 1",
+      "coastal": true,
+      "_area_type": 0,
+      "country_id": 4
+    },
+    "pk": 7081
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Sigtuna 0",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7082
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Sigtuna 1",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7083
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Upplands V\u00e4sby",
+      "coastal": false,
+      "_area_type": 1,
+      "country_id": 4
+    },
+    "pk": 7084
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Upplands-Bro 0",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7085
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Upplands-Bro 1",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7086
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Nordmaling 0",
+      "coastal": true,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7087
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Nordmaling 1",
+      "coastal": true,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7088
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Bjurholm 0",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7089
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Bjurholm 1",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7090
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Vindeln",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7091
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Robertsfors 0",
+      "coastal": true,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7092
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Robertsfors 1",
+      "coastal": true,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7093
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Norsj\u00f6",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7094
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Mal\u00e5",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7095
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Storuman 0",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7096
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Storuman 1",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7097
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Sorsele",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7098
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Dorotea 0",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7099
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Dorotea 1",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7100
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "V\u00e4nn\u00e4s",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7101
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Vilhelmina 0",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7102
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Vilhelmina 1",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7103
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "\u00c5sele 0",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7104
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "\u00c5sele 1",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7105
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Ume\u00e5 0",
+      "coastal": true,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7106
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Ume\u00e5 1",
+      "coastal": true,
+      "_area_type": 1,
+      "country_id": 4
+    },
+    "pk": 7107
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Ume\u00e5 2",
+      "coastal": true,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7108
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Ume\u00e5 3",
+      "coastal": true,
+      "_area_type": 1,
+      "country_id": 4
+    },
+    "pk": 7109
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Ume\u00e5 4",
+      "coastal": true,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7110
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Ume\u00e5 5",
+      "coastal": true,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7111
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Ume\u00e5 6",
+      "coastal": true,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7112
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Ume\u00e5 7",
+      "coastal": true,
+      "_area_type": 0,
+      "country_id": 4
+    },
+    "pk": 7113
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Ume\u00e5 8",
+      "coastal": true,
+      "_area_type": 1,
+      "country_id": 4
+    },
+    "pk": 7114
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Ume\u00e5 9",
+      "coastal": true,
+      "_area_type": 1,
+      "country_id": 4
+    },
+    "pk": 7115
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Ume\u00e5 10",
+      "coastal": true,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7116
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Ume\u00e5 11",
+      "coastal": true,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7117
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Lycksele 0",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7118
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Lycksele 1",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7119
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Lycksele 2",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7120
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Skellefte\u00e5 0",
+      "coastal": true,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7121
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Skellefte\u00e5 1",
+      "coastal": true,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7122
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Skellefte\u00e5 2",
+      "coastal": true,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7123
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Skellefte\u00e5 3",
+      "coastal": true,
+      "_area_type": 3,
+      "country_id": 4
+    },
+    "pk": 7124
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Skellefte\u00e5 4",
+      "coastal": true,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7125
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Skellefte\u00e5 5",
+      "coastal": true,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7126
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Skellefte\u00e5 6",
+      "coastal": true,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7127
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Arvidsjaur 0",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7128
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Arvidsjaur 1",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7129
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Arjeplog",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7130
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Jokkmokk 0",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7131
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Jokkmokk 1",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7132
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Jokkmokk 2",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7133
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "\u00d6verkalix",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7134
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Kalix 0",
+      "coastal": true,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7135
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Kalix 1",
+      "coastal": true,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7136
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "\u00d6vertorne\u00e5",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7137
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Pajala 0",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7138
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Pajala 1",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7139
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "G\u00e4llivare 0",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7140
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "G\u00e4llivare 1",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7141
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "G\u00e4llivare 2",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7142
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "G\u00e4llivare 3",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7143
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "\u00c4lvsbyn",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7144
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Lule\u00e5 0",
+      "coastal": true,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7145
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Lule\u00e5 1",
+      "coastal": true,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7146
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Lule\u00e5 2",
+      "coastal": true,
+      "_area_type": 1,
+      "country_id": 4
+    },
+    "pk": 7147
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Lule\u00e5 3",
+      "coastal": true,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7148
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Lule\u00e5 4",
+      "coastal": true,
+      "_area_type": 0,
+      "country_id": 4
+    },
+    "pk": 7149
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Lule\u00e5 5",
+      "coastal": true,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7150
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Lule\u00e5 6",
+      "coastal": true,
+      "_area_type": 1,
+      "country_id": 4
+    },
+    "pk": 7151
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Lule\u00e5 7",
+      "coastal": true,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7152
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Lule\u00e5 8",
+      "coastal": true,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7153
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Lule\u00e5 9",
+      "coastal": true,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7154
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Pite\u00e5 0",
+      "coastal": true,
+      "_area_type": 1,
+      "country_id": 4
+    },
+    "pk": 7155
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Pite\u00e5 1",
+      "coastal": true,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7156
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Pite\u00e5 2",
+      "coastal": true,
+      "_area_type": 1,
+      "country_id": 4
+    },
+    "pk": 7157
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Pite\u00e5 3",
+      "coastal": true,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7158
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Pite\u00e5 4",
+      "coastal": true,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7159
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Pite\u00e5 5",
+      "coastal": true,
+      "_area_type": 3,
+      "country_id": 4
+    },
+    "pk": 7160
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Boden 0",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7161
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Boden 1",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7162
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Boden 2",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7163
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Boden 3",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7164
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Haparanda 0",
+      "coastal": true,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7165
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Haparanda 1",
+      "coastal": true,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7166
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Kiruna 0",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7167
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Kiruna 1",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7168
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "H\u00e5bo",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7169
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "\u00c4lvkarleby",
+      "coastal": true,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7170
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Knivsta",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7171
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Tierp 0",
+      "coastal": true,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7172
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Tierp 1",
+      "coastal": true,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7173
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Tierp 2",
+      "coastal": true,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7174
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Uppsala 0",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7175
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Uppsala 1",
+      "coastal": false,
+      "_area_type": 0,
+      "country_id": 4
+    },
+    "pk": 7176
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Uppsala 2",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7177
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Uppsala 3",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7178
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Uppsala 4",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7179
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Uppsala 5",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7180
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Uppsala 6",
+      "coastal": false,
+      "_area_type": 1,
+      "country_id": 4
+    },
+    "pk": 7181
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Uppsala 7",
+      "coastal": false,
+      "_area_type": 1,
+      "country_id": 4
+    },
+    "pk": 7182
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Uppsala 8",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7183
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Uppsala 9",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7184
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Uppsala 10",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7185
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Uppsala 11",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7186
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Uppsala 12",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7187
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Uppsala 13",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7188
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Uppsala 14",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7189
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Uppsala 15",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7190
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Uppsala 16",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7191
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Enk\u00f6ping 0",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7192
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Enk\u00f6ping 1",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7193
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Enk\u00f6ping 2",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7194
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "\u00d6sthammar 0",
+      "coastal": true,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7195
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "\u00d6sthammar 1",
+      "coastal": true,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7196
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "\u00d6sthammar 2",
+      "coastal": true,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7197
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "\u00d6sthammar 3",
+      "coastal": true,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7198
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "\u00d6sthammar 4",
+      "coastal": true,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7199
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Ving\u00e5ker",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7200
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Gnesta",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7201
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Nyk\u00f6ping 0",
+      "coastal": true,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7202
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Nyk\u00f6ping 1",
+      "coastal": true,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7203
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Nyk\u00f6ping 2",
+      "coastal": true,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7204
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Oxel\u00f6sund",
+      "coastal": true,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7205
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Flen 0",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7206
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Flen 1",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7207
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Katrineholm 0",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7208
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Katrineholm 1",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7209
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Katrineholm 2",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7210
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Katrineholm 3",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7211
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Eskilstuna 0",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7212
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Eskilstuna 1",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7213
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Eskilstuna 2",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7214
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Eskilstuna 3",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7215
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Eskilstuna 4",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7216
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Eskilstuna 5",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7217
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Eskilstuna 6",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7218
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Eskilstuna 7",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7219
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Eskilstuna 8",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7220
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Str\u00e4ngn\u00e4s 0",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7221
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Str\u00e4ngn\u00e4s 1",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7222
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Str\u00e4ngn\u00e4s 2",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7223
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Trosa 0",
+      "coastal": true,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7224
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Trosa 1",
+      "coastal": true,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7225
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "\u00d6desh\u00f6g",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7226
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Boxholm 0",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7227
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Boxholm 1",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7228
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Boxholm 2",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7229
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "\u00c5tvidaberg",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7230
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Finsp\u00e5ng 0",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7231
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Finsp\u00e5ng 1",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7232
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Valdemarsvik 0",
+      "coastal": true,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7233
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Valdemarsvik 1",
+      "coastal": true,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7234
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Link\u00f6ping 0",
+      "coastal": false,
+      "_area_type": 1,
+      "country_id": 4
+    },
+    "pk": 7235
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Link\u00f6ping 1",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7236
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Link\u00f6ping 2",
+      "coastal": false,
+      "_area_type": 1,
+      "country_id": 4
+    },
+    "pk": 7237
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Link\u00f6ping 3",
+      "coastal": false,
+      "_area_type": 1,
+      "country_id": 4
+    },
+    "pk": 7238
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Link\u00f6ping 4",
+      "coastal": false,
+      "_area_type": 1,
+      "country_id": 4
+    },
+    "pk": 7239
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Link\u00f6ping 5",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7240
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Link\u00f6ping 6",
+      "coastal": false,
+      "_area_type": 1,
+      "country_id": 4
+    },
+    "pk": 7241
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Link\u00f6ping 7",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7242
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Link\u00f6ping 8",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7243
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Link\u00f6ping 9",
+      "coastal": false,
+      "_area_type": 0,
+      "country_id": 4
+    },
+    "pk": 7244
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Link\u00f6ping 10",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7245
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Norrk\u00f6ping",
+      "coastal": true,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7246
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "S\u00f6derk\u00f6ping 0",
+      "coastal": true,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7247
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "S\u00f6derk\u00f6ping 1",
+      "coastal": true,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7248
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "S\u00f6derk\u00f6ping 2",
+      "coastal": true,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7249
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "S\u00f6derk\u00f6ping 3",
+      "coastal": true,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7250
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Motala 0",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7251
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Motala 1",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7252
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Motala 2",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7253
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Vadstena",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7254
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Mj\u00f6lby 0",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7255
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Mj\u00f6lby 1",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7256
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Mj\u00f6lby 2",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7257
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Mj\u00f6lby 3",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7258
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Mj\u00f6lby 4",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7259
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Aneby 0",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7260
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Aneby 1",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7261
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Gnosj\u00f6 0",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7262
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Gnosj\u00f6 1",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7263
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Mullsj\u00f6",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7264
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Habo",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7265
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Gislaved 0",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7266
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Gislaved 1",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7267
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Gislaved 2",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7268
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Gislaved 3",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7269
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Vaggeryd 0",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7270
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Vaggeryd 1",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7271
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "J\u00f6nk\u00f6ping 0",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7272
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "J\u00f6nk\u00f6ping 1",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7273
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "J\u00f6nk\u00f6ping 2",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7274
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "J\u00f6nk\u00f6ping 3",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7275
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "J\u00f6nk\u00f6ping 4",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7276
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "J\u00f6nk\u00f6ping 5",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7277
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "J\u00f6nk\u00f6ping 6",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7278
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "J\u00f6nk\u00f6ping 7",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7279
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "J\u00f6nk\u00f6ping 8",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7280
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "J\u00f6nk\u00f6ping 9",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7281
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "J\u00f6nk\u00f6ping 10",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7282
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "J\u00f6nk\u00f6ping 11",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7283
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "N\u00e4ssj\u00f6 0",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7284
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "N\u00e4ssj\u00f6 1",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7285
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "N\u00e4ssj\u00f6 2",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7286
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "V\u00e4rnamo 0",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7287
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "V\u00e4rnamo 1",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7288
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "V\u00e4rnamo 2",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7289
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "V\u00e4rnamo 3",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7290
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "V\u00e4rnamo 4",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7291
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "S\u00e4vsj\u00f6 0",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7292
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "S\u00e4vsj\u00f6 1",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7293
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "S\u00e4vsj\u00f6 2",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7294
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Vetlanda 0",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7295
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Vetlanda 1",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7296
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Vetlanda 2",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7297
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Eksj\u00f6 0",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7298
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Eksj\u00f6 1",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7299
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Tran\u00e5s 0",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7300
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Tran\u00e5s 1",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7301
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Uppvidinge 0",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7302
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Uppvidinge 1",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7303
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Lessebo",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7304
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Tingsryd 0",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7305
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Tingsryd 1",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7306
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Alvesta 0",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7307
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Alvesta 1",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7308
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Alvesta 2",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7309
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "\u00c4lmhult",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7310
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Markaryd 0",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7311
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Markaryd 1",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7312
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "V\u00e4xj\u00f6 0",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7313
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "V\u00e4xj\u00f6 1",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7314
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "V\u00e4xj\u00f6 2",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7315
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "V\u00e4xj\u00f6 3",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7316
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "V\u00e4xj\u00f6 4",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7317
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "V\u00e4xj\u00f6 5",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7318
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "V\u00e4xj\u00f6 6",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7319
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "V\u00e4xj\u00f6 7",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7320
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Ljungby 0",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7321
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Ljungby 1",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7322
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Ljungby 2",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7323
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "H\u00f6gsby 0",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7324
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "H\u00f6gsby 1",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7325
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Tors\u00e5s",
+      "coastal": true,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7326
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "M\u00f6rbyl\u00e5nga 0",
+      "coastal": true,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7327
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "M\u00f6rbyl\u00e5nga 1",
+      "coastal": true,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7328
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Hultsfred 0",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7329
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Hultsfred 1",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7330
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "M\u00f6nster\u00e5s 0",
+      "coastal": true,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7331
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "M\u00f6nster\u00e5s 1",
+      "coastal": true,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7332
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "M\u00f6nster\u00e5s 2",
+      "coastal": true,
+      "_area_type": 1,
+      "country_id": 4
+    },
+    "pk": 7333
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "M\u00f6nster\u00e5s 3",
+      "coastal": true,
+      "_area_type": 0,
+      "country_id": 4
+    },
+    "pk": 7334
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "M\u00f6nster\u00e5s 4",
+      "coastal": true,
+      "_area_type": 1,
+      "country_id": 4
+    },
+    "pk": 7335
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Emmaboda 0",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7336
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Emmaboda 1",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7337
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Emmaboda 2",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7338
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Kalmar 0",
+      "coastal": true,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7339
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Kalmar 1",
+      "coastal": true,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7340
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Kalmar 2",
+      "coastal": true,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7341
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Kalmar 3",
+      "coastal": true,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7342
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Kalmar 4",
+      "coastal": true,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7343
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Kalmar 5",
+      "coastal": true,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7344
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Kalmar 6",
+      "coastal": true,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7345
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Kalmar 7",
+      "coastal": true,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7346
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Kalmar 8",
+      "coastal": true,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7347
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Kalmar 9",
+      "coastal": true,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7348
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Kalmar 10",
+      "coastal": true,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7349
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Nybro 0",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7350
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Nybro 1",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7351
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Nybro 2",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7352
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Nybro 3",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7353
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Nybro 4",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7354
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Oskarshamn 0",
+      "coastal": true,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7355
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Oskarshamn 1",
+      "coastal": true,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7356
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Oskarshamn 2",
+      "coastal": true,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7357
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "V\u00e4stervik 0",
+      "coastal": true,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7358
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "V\u00e4stervik 1",
+      "coastal": true,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7359
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "V\u00e4stervik 2",
+      "coastal": true,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7360
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "V\u00e4stervik 3",
+      "coastal": true,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7361
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Vimmerby 0",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7362
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Vimmerby 1",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7363
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Vimmerby 2",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7364
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Vimmerby 3",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7365
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Vimmerby 4",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7366
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Vimmerby 5",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7367
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Borgholm 0",
+      "coastal": true,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7368
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Borgholm 1",
+      "coastal": true,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7369
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Borgholm 2",
+      "coastal": true,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7370
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Gotland 0",
+      "coastal": true,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7371
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Gotland 1",
+      "coastal": true,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7372
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Gotland 2",
+      "coastal": true,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7373
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Gotland 3",
+      "coastal": true,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7374
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Gotland 4",
+      "coastal": true,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7375
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Roma",
+      "coastal": true,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7376
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Klinte",
+      "coastal": true,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7377
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Havdhem",
+      "coastal": true,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7378
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Ljugarn",
+      "coastal": true,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7379
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Tingst\u00e4de",
+      "coastal": true,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7380
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "F\u00e5r\u00f6sund",
+      "coastal": true,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7381
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Olofstr\u00f6m 0",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7382
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Olofstr\u00f6m 1",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7383
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Karlskrona 0",
+      "coastal": true,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7384
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Karlskrona 1",
+      "coastal": true,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7385
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Karlskrona 2",
+      "coastal": true,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7386
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Ronneby 0",
+      "coastal": true,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7387
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Ronneby 1",
+      "coastal": true,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7388
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Karlshamn 0",
+      "coastal": true,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7389
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Karlshamn 1",
+      "coastal": true,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7390
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Karlshamn 2",
+      "coastal": true,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7391
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Karlshamn 3",
+      "coastal": true,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7392
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Karlshamn 4",
+      "coastal": true,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7393
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Karlshamn 5",
+      "coastal": true,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7394
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "S\u00f6lvesborg",
+      "coastal": true,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7395
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Sval\u00f6v 0",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7396
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Sval\u00f6v 1",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7397
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Staffanstorp",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7398
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Burl\u00f6v",
+      "coastal": true,
+      "_area_type": 1,
+      "country_id": 4
+    },
+    "pk": 7399
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Vellinge 0",
+      "coastal": true,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7400
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Vellinge 1",
+      "coastal": true,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7401
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Vellinge 2",
+      "coastal": true,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7402
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "\u00d6stra G\u00f6inge 0",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7403
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "\u00d6stra G\u00f6inge 1",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7404
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "\u00d6rkelljunga",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7405
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Bjuv 0",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7406
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Bjuv 1",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7407
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "K\u00e4vlinge 0",
+      "coastal": true,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7408
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "K\u00e4vlinge 1",
+      "coastal": true,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7409
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Lomma 0",
+      "coastal": true,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7410
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Lomma 1",
+      "coastal": true,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7411
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Lomma 2",
+      "coastal": true,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7412
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Svedala 0",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7413
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Svedala 1",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7414
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Skurup",
+      "coastal": true,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7415
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Sj\u00f6bo 0",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7416
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Sj\u00f6bo 1",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7417
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "H\u00f6rby 0",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7418
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "H\u00f6rby 1",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7419
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "H\u00f6\u00f6r",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7420
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Tomelilla 0",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7421
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Tomelilla 1",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7422
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Tomelilla 2",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7423
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Brom\u00f6lla 0",
+      "coastal": true,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7424
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Brom\u00f6lla 1",
+      "coastal": true,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7425
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Osby 0",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7426
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Osby 1",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7427
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Perstorp",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7428
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Klippan 0",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7429
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Klippan 1",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7430
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "\u00c5storp 0",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7431
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "\u00c5storp 1",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7432
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "B\u00e5stad 0",
+      "coastal": true,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7433
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "B\u00e5stad 1",
+      "coastal": true,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7434
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Lund 0",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7435
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Lund 1",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7436
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Lund 2",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7437
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Lund 3",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7438
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Lund 4",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7439
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Lund 5",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7440
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Lund 6",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7441
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Lund 7",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7442
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Lund 8",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7443
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Lund 9",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7444
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Lund 10",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7445
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Landskrona 0",
+      "coastal": true,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7446
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Landskrona 1",
+      "coastal": true,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7447
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Helsingborg 0",
+      "coastal": true,
+      "_area_type": 0,
+      "country_id": 4
+    },
+    "pk": 7448
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Helsingborg 1",
+      "coastal": true,
+      "_area_type": 1,
+      "country_id": 4
+    },
+    "pk": 7449
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Helsingborg 2",
+      "coastal": true,
+      "_area_type": 1,
+      "country_id": 4
+    },
+    "pk": 7450
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Helsingborg 3",
+      "coastal": true,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7451
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Helsingborg 4",
+      "coastal": true,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7452
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Helsingborg 5",
+      "coastal": true,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7453
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Helsingborg 6",
+      "coastal": true,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7454
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Helsingborg 7",
+      "coastal": true,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7455
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Helsingborg 8",
+      "coastal": true,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7456
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Helsingborg 9",
+      "coastal": true,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7457
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Helsingborg 10",
+      "coastal": true,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7458
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "H\u00f6gan\u00e4s 0",
+      "coastal": true,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7459
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "H\u00f6gan\u00e4s 1",
+      "coastal": true,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7460
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Esl\u00f6v 0",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7461
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Esl\u00f6v 1",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7462
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Esl\u00f6v 2",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7463
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Ystad 0",
+      "coastal": true,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7464
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Ystad 1",
+      "coastal": true,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7465
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Ystad 2",
+      "coastal": true,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7466
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Ystad 3",
+      "coastal": true,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7467
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Trelleborg",
+      "coastal": true,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7468
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Kristianstad 0",
+      "coastal": true,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7469
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Kristianstad 1",
+      "coastal": true,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7470
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Kristianstad 2",
+      "coastal": true,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7471
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Kristianstad 3",
+      "coastal": true,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7472
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Kristianstad 4",
+      "coastal": true,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7473
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Simrishamn 0",
+      "coastal": true,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7474
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Simrishamn 1",
+      "coastal": true,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7475
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Simrishamn 2",
+      "coastal": true,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7476
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Simrishamn 3",
+      "coastal": true,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7477
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Simrishamn 4",
+      "coastal": true,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7478
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "\u00c4ngelholm 0",
+      "coastal": true,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7479
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "\u00c4ngelholm 1",
+      "coastal": true,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7480
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "\u00c4ngelholm 2",
+      "coastal": true,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7481
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "H\u00e4ssleholm 0",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7482
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "H\u00e4ssleholm 1",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7483
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "H\u00e4ssleholm 2",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7484
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "H\u00e4ssleholm 3",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7485
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "H\u00e4ssleholm 4",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7486
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Hylte 0",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7487
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Hylte 1",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7488
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Hylte 2",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7489
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Hylte 3",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7490
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Halmstad 0",
+      "coastal": true,
+      "_area_type": 3,
+      "country_id": 4
+    },
+    "pk": 7491
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Halmstad 1",
+      "coastal": true,
+      "_area_type": 3,
+      "country_id": 4
+    },
+    "pk": 7492
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Halmstad 2",
+      "coastal": true,
+      "_area_type": 3,
+      "country_id": 4
+    },
+    "pk": 7493
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Halmstad 3",
+      "coastal": true,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7494
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Halmstad 4",
+      "coastal": true,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7495
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Halmstad 5",
+      "coastal": true,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7496
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Halmstad 6",
+      "coastal": true,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7497
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Laholm 0",
+      "coastal": true,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7498
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Laholm 1",
+      "coastal": true,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7499
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Laholm 2",
+      "coastal": true,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7500
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Laholm 3",
+      "coastal": true,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7501
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Falkenberg 0",
+      "coastal": true,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7502
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Falkenberg 1",
+      "coastal": true,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7503
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Falkenberg 2",
+      "coastal": true,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7504
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Falkenberg 3",
+      "coastal": true,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7505
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Varberg 0",
+      "coastal": true,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7506
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Varberg 1",
+      "coastal": true,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7507
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Varberg 2",
+      "coastal": true,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7508
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Varberg 3",
+      "coastal": true,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7509
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Varberg 4",
+      "coastal": true,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7510
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Kungsbacka 0",
+      "coastal": true,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7511
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Kungsbacka 1",
+      "coastal": true,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7512
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Kungsbacka 2",
+      "coastal": true,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7513
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Kungsbacka 3",
+      "coastal": true,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7514
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Kungsbacka 4",
+      "coastal": true,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7515
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "H\u00e4rryda 0",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7516
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "H\u00e4rryda 1",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7517
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Partille",
+      "coastal": false,
+      "_area_type": 1,
+      "country_id": 4
+    },
+    "pk": 7518
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "\u00d6cker\u00f6",
+      "coastal": true,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7519
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Stenungsund 0",
+      "coastal": true,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7520
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Stenungsund 1",
+      "coastal": true,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7521
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Tj\u00f6rn",
+      "coastal": true,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7522
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Orust 0",
+      "coastal": true,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7523
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Orust 1",
+      "coastal": true,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7524
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Orust 2",
+      "coastal": true,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7525
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Soten\u00e4s 0",
+      "coastal": true,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7526
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Soten\u00e4s 1",
+      "coastal": true,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7527
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Munkedal 0",
+      "coastal": true,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7528
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Munkedal 1",
+      "coastal": true,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7529
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Tanum 0",
+      "coastal": true,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7530
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Tanum 1",
+      "coastal": true,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7531
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Dals-Ed",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7532
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "F\u00e4rgelanda",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7533
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Ale 0",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7534
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Ale 1",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7535
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Ale 2",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7536
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Lerum 0",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7537
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Lerum 1",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7538
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Lerum 2",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7539
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Lerum 3",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7540
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "V\u00e5rg\u00e5rda",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7541
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Bollebygd 0",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7542
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Bollebygd 1",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7543
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Gr\u00e4storp",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7544
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Essunga",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7545
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Karlsborg",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7546
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Gullsp\u00e5ng 0",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7547
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Gullsp\u00e5ng 1",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7548
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Tranemo 0",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7549
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Tranemo 1",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7550
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Tranemo 2",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7551
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Bengtsfors 0",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7552
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Bengtsfors 1",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7553
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Bengtsfors 2",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7554
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Bengtsfors 3",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7555
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Mellerud 0",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7556
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Mellerud 1",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7557
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Lilla Edet 0",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7558
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Lilla Edet 1",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7559
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Lilla Edet 2",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7560
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Mark 0",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7561
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Mark 1",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7562
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Mark 2",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7563
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Mark 3",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7564
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Mark 4",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7565
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Svenljunga 0",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7566
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Svenljunga 1",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7567
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Herrljunga",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7568
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Vara 0",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7569
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Vara 1",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7570
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Vara 2",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7571
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Vara 3",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7572
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "G\u00f6tene 0",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7573
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "G\u00f6tene 1",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7574
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Tibro",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7575
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "T\u00f6reboda 0",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7576
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "T\u00f6reboda 1",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7577
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "T\u00f6reboda 2",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7578
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "M\u00f6lndal 0",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7579
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "M\u00f6lndal 1",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7580
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "M\u00f6lndal 2",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7581
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "M\u00f6lndal 3",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7582
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "M\u00f6lndal 4",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7583
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "M\u00f6lndal 5",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7584
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Kung\u00e4lv 0",
+      "coastal": true,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7585
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Kung\u00e4lv 1",
+      "coastal": true,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7586
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Lysekil 0",
+      "coastal": true,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7587
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Lysekil 1",
+      "coastal": true,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7588
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Lysekil 2",
+      "coastal": true,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7589
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Lysekil 3",
+      "coastal": true,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7590
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Uddevalla 0",
+      "coastal": true,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7591
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Uddevalla 1",
+      "coastal": true,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7592
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Uddevalla 2",
+      "coastal": true,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7593
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Uddevalla 3",
+      "coastal": true,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7594
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Str\u00f6mstad 0",
+      "coastal": true,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7595
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Str\u00f6mstad 1",
+      "coastal": true,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7596
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "V\u00e4nersborg 0",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7597
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "V\u00e4nersborg 1",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7598
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "V\u00e4nersborg 2",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7599
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "V\u00e4nersborg 3",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7600
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Trollh\u00e4ttan 0",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7601
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Trollh\u00e4ttan 1",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7602
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Alings\u00e5s 0",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7603
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Alings\u00e5s 1",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7604
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Alings\u00e5s 2",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7605
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Alings\u00e5s 3",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7606
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Bor\u00e5s 0",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7607
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Bor\u00e5s 1",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7608
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Bor\u00e5s 2",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7609
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Bor\u00e5s 3",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7610
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Bor\u00e5s 4",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7611
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Bor\u00e5s 5",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7612
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Bor\u00e5s 6",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7613
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Bor\u00e5s 7",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7614
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Bor\u00e5s 8",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7615
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Bor\u00e5s 9",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7616
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Bor\u00e5s 10",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7617
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Bor\u00e5s 11",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7618
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Bor\u00e5s 12",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7619
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Bor\u00e5s 13",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7620
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Ulricehamn 0",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7621
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Ulricehamn 1",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7622
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Ulricehamn 2",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7623
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Ulricehamn 3",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7624
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "\u00c5m\u00e5l 0",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7625
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "\u00c5m\u00e5l 1",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7626
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Mariestad 0",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7627
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Mariestad 1",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7628
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Mariestad 2",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7629
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Lidk\u00f6ping 0",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7630
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Lidk\u00f6ping 1",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7631
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Lidk\u00f6ping 2",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7632
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Lidk\u00f6ping 3",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7633
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Skara 0",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7634
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Skara 1",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7635
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Sk\u00f6vde 0",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7636
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Sk\u00f6vde 1",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7637
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Sk\u00f6vde 2",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7638
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Sk\u00f6vde 3",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7639
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Hjo 0",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7640
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Hjo 1",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7641
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Tidaholm",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7642
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Falk\u00f6ping 0",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7643
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Falk\u00f6ping 1",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7644
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Falk\u00f6ping 2",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7645
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Falk\u00f6ping 3",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7646
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Kil",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7647
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Eda 0",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7648
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Eda 1",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7649
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Torsby 0",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7650
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Torsby 1",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7651
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Storfors",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7652
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Hammar\u00f6",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7653
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Munkfors",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7654
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Forshaga 0",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7655
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Forshaga 1",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7656
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Forshaga 2",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7657
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Grums 0",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7658
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Grums 1",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7659
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "\u00c5rj\u00e4ng 0",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7660
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "\u00c5rj\u00e4ng 1",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7661
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "\u00c5rj\u00e4ng 2",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7662
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Sunne",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7663
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Karlstad 0",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7664
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Karlstad 1",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7665
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Karlstad 2",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7666
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Karlstad 3",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7667
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Karlstad 4",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7668
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Karlstad 5",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7669
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Karlstad 6",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7670
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Karlstad 7",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7671
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Karlstad 8",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7672
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Karlstad 9",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7673
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Karlstad 10",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7674
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Karlstad 11",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7675
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Kristinehamn 0",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7676
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Kristinehamn 1",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7677
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Kristinehamn 2",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7678
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Filipstad 0",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7679
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Filipstad 1",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7680
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Filipstad 2",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7681
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Hagfors 0",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7682
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Hagfors 1",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7683
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Hagfors 2",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7684
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Hagfors 3",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7685
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Arvika 0",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7686
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Arvika 1",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7687
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Arvika 2",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7688
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "S\u00e4ffle 0",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7689
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "S\u00e4ffle 1",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7690
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "S\u00e4ffle 2",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7691
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Lekeberg",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7692
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Lax\u00e5 0",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7693
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Lax\u00e5 1",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7694
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Hallsberg 0",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7695
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Hallsberg 1",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7696
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Hallsberg 2",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7697
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Hallsberg 3",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7698
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Degerfors",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7699
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "H\u00e4llefors",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7700
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Ljusnarsberg 0",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7701
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Ljusnarsberg 1",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7702
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "\u00d6rebro 0",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7703
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "\u00d6rebro 1",
+      "coastal": false,
+      "_area_type": 0,
+      "country_id": 4
+    },
+    "pk": 7704
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "\u00d6rebro 2",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7705
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "\u00d6rebro 3",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7706
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "\u00d6rebro 4",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7707
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "\u00d6rebro 5",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7708
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "\u00d6rebro 6",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7709
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "\u00d6rebro 7",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7710
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "\u00d6rebro 8",
+      "coastal": false,
+      "_area_type": 1,
+      "country_id": 4
+    },
+    "pk": 7711
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "\u00d6rebro 9",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7712
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "\u00d6rebro 10",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7713
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "\u00d6rebro 11",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7714
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "\u00d6rebro 12",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7715
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Kumla 0",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7716
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Kumla 1",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7717
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Kumla 2",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7718
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Kumla 3",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7719
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Askersund 0",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7720
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Askersund 1",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7721
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Askersund 2",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7722
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Karlskoga",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7723
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Nora 0",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7724
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Nora 1",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7725
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Lindesberg 0",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7726
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Lindesberg 1",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7727
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Lindesberg 2",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7728
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Skinnskatteberg 0",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7729
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Skinnskatteberg 1",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7730
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Surahammar 0",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7731
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Surahammar 1",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7732
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Heby 0",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7733
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Heby 1",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7734
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Kungs\u00f6r 0",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7735
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Kungs\u00f6r 1",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7736
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Hallstahammar 0",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7737
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Hallstahammar 1",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7738
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Norberg",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7739
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "V\u00e4ster\u00e5s 0",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7740
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "V\u00e4ster\u00e5s 1",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7741
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "V\u00e4ster\u00e5s 2",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7742
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "V\u00e4ster\u00e5s 3",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7743
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "V\u00e4ster\u00e5s 4",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7744
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "V\u00e4ster\u00e5s 5",
+      "coastal": false,
+      "_area_type": 1,
+      "country_id": 4
+    },
+    "pk": 7745
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "V\u00e4ster\u00e5s 6",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7746
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "V\u00e4ster\u00e5s 7",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7747
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Sala 0",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7748
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Sala 1",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7749
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Sala 2",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7750
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Fagersta",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7751
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "K\u00f6ping 0",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7752
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "K\u00f6ping 1",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7753
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Arboga 0",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7754
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Arboga 1",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7755
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Vansbro 0",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7756
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Vansbro 1",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7757
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Malung-S\u00e4len 0",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7758
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Malung-S\u00e4len 1",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7759
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Malung-S\u00e4len 2",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7760
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Gagnef 0",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7761
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Gagnef 1",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7762
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Leksand 0",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7763
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Leksand 1",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7764
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "R\u00e4ttvik 0",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7765
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "R\u00e4ttvik 1",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7766
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Orsa",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7767
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "\u00c4lvdalen 0",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7768
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "\u00c4lvdalen 1",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7769
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "\u00c4lvdalen 2",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7770
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Smedjebacken 0",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7771
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Smedjebacken 1",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7772
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Mora",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7773
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Falun 0",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7774
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Falun 1",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7775
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Borl\u00e4nge 0",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7776
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Borl\u00e4nge 1",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7777
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Borl\u00e4nge 2",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7778
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "S\u00e4ter 0",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7779
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "S\u00e4ter 1",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7780
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Hedemora 0",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7781
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Hedemora 1",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7782
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Hedemora 2",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7783
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Avesta 0",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7784
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Avesta 1",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7785
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Ludvika 0",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7786
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Ludvika 1",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7787
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Ludvika 2",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7788
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Ludvika 3",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7789
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Ockelbo",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7790
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Hofors",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7791
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Ovan\u00e5ker 0",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7792
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Ovan\u00e5ker 1",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7793
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Ovan\u00e5ker 2",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7794
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Nordanstig",
+      "coastal": true,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7795
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Ljusdal 0",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7796
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Ljusdal 1",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7797
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "G\u00e4vle 0",
+      "coastal": true,
+      "_area_type": 0,
+      "country_id": 4
+    },
+    "pk": 7798
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "G\u00e4vle 1",
+      "coastal": true,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7799
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "G\u00e4vle 2",
+      "coastal": true,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7800
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "G\u00e4vle 3",
+      "coastal": true,
+      "_area_type": 0,
+      "country_id": 4
+    },
+    "pk": 7801
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "G\u00e4vle 4",
+      "coastal": true,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7802
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "G\u00e4vle 5",
+      "coastal": true,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7803
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "G\u00e4vle 6",
+      "coastal": true,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7804
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "G\u00e4vle 7",
+      "coastal": true,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7805
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "G\u00e4vle 8",
+      "coastal": true,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7806
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "G\u00e4vle 9",
+      "coastal": true,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7807
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "G\u00e4vle 10",
+      "coastal": true,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7808
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "G\u00e4vle 11",
+      "coastal": true,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7809
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Sandviken 0",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7810
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Sandviken 1",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7811
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Sandviken 2",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7812
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Sandviken 3",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7813
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Sandviken 4",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7814
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "S\u00f6derhamn 0",
+      "coastal": true,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7815
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "S\u00f6derhamn 1",
+      "coastal": true,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7816
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "S\u00f6derhamn 2",
+      "coastal": true,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7817
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Bolln\u00e4s 0",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7818
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Bolln\u00e4s 1",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7819
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Bolln\u00e4s 2",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7820
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Bolln\u00e4s 3",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7821
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Bolln\u00e4s 4",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7822
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Hudiksvall 0",
+      "coastal": true,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7823
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Hudiksvall 1",
+      "coastal": true,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7824
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Hudiksvall 2",
+      "coastal": true,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7825
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "\u00c5nge 0",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7826
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "\u00c5nge 1",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7827
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Timr\u00e5 0",
+      "coastal": true,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7828
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Timr\u00e5 1",
+      "coastal": true,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7829
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "H\u00e4rn\u00f6sand 0",
+      "coastal": true,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7830
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "H\u00e4rn\u00f6sand 1",
+      "coastal": true,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7831
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "H\u00e4rn\u00f6sand 2",
+      "coastal": true,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7832
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Sundsvall 0",
+      "coastal": true,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7833
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Sundsvall 1",
+      "coastal": true,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7834
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Sundsvall 2",
+      "coastal": true,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7835
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Sundsvall 3",
+      "coastal": true,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7836
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Sundsvall 4",
+      "coastal": true,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7837
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Sundsvall 5",
+      "coastal": true,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7838
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Sundsvall 6",
+      "coastal": true,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7839
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Sundsvall 7",
+      "coastal": true,
+      "_area_type": 0,
+      "country_id": 4
+    },
+    "pk": 7840
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Sundsvall 8",
+      "coastal": true,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7841
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Sundsvall 9",
+      "coastal": true,
+      "_area_type": 1,
+      "country_id": 4
+    },
+    "pk": 7842
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Sundsvall 10",
+      "coastal": true,
+      "_area_type": 1,
+      "country_id": 4
+    },
+    "pk": 7843
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Sundsvall 11",
+      "coastal": true,
+      "_area_type": 1,
+      "country_id": 4
+    },
+    "pk": 7844
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Sundsvall 12",
+      "coastal": true,
+      "_area_type": 1,
+      "country_id": 4
+    },
+    "pk": 7845
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Sundsvall 13",
+      "coastal": true,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7846
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Sundsvall 14",
+      "coastal": true,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7847
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Kramfors 0",
+      "coastal": true,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7848
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Kramfors 1",
+      "coastal": true,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7849
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Kramfors 2",
+      "coastal": true,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7850
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Sollefte\u00e5 0",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7851
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Sollefte\u00e5 1",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7852
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Sollefte\u00e5 2",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7853
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "\u00d6rnsk\u00f6ldsvik 0",
+      "coastal": true,
+      "_area_type": 1,
+      "country_id": 4
+    },
+    "pk": 7854
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "\u00d6rnsk\u00f6ldsvik 1",
+      "coastal": true,
+      "_area_type": 3,
+      "country_id": 4
+    },
+    "pk": 7855
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "\u00d6rnsk\u00f6ldsvik 2",
+      "coastal": true,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7856
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "\u00d6rnsk\u00f6ldsvik 3",
+      "coastal": true,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7857
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "\u00d6rnsk\u00f6ldsvik 4",
+      "coastal": true,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7858
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "\u00d6rnsk\u00f6ldsvik 5",
+      "coastal": true,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7859
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "\u00d6rnsk\u00f6ldsvik 6",
+      "coastal": true,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7860
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Ragunda 0",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7861
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Ragunda 1",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7862
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Br\u00e4cke",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7863
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Krokom 0",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7864
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Krokom 1",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7865
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Str\u00f6msund 0",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7866
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Str\u00f6msund 1",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7867
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Str\u00f6msund 2",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7868
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "\u00c5re",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7869
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Berg 0",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7870
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Berg 1",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7871
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Berg 2",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7872
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "H\u00e4rjedalen 0",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7873
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "H\u00e4rjedalen 1",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7874
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "H\u00e4rjedalen 2",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7875
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "\u00d6stersund 0",
+      "coastal": false,
+      "_area_type": 3,
+      "country_id": 4
+    },
+    "pk": 7876
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "\u00d6stersund 1",
+      "coastal": false,
+      "_area_type": 1,
+      "country_id": 4
+    },
+    "pk": 7877
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "\u00d6stersund 2",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7878
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "\u00d6stersund 3",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7879
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "\u00d6stersund 4",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7880
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "\u00d6stersund 5",
+      "coastal": false,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7881
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Tofta",
+      "coastal": true,
+      "_area_type": 2,
+      "country_id": 4
+    },
+    "pk": 7882
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Kungsholmen",
+      "coastal": true,
+      "_area_type": 0,
+      "country_id": 4
+    },
+    "pk": 7883
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Norrmalm",
+      "coastal": true,
+      "_area_type": 0,
+      "country_id": 4
+    },
+    "pk": 7884
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "V\u00e4stra S\u00f6dermalm",
+      "coastal": true,
+      "_area_type": 0,
+      "country_id": 4
+    },
+    "pk": 7885
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "\u00d6stra S\u00f6dermalm",
+      "coastal": true,
+      "_area_type": 0,
+      "country_id": 4
+    },
+    "pk": 7886
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Mellersta S\u00f6dermalm",
+      "coastal": true,
+      "_area_type": 0,
+      "country_id": 4
+    },
+    "pk": 7887
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Vasastan",
+      "coastal": true,
+      "_area_type": 0,
+      "country_id": 4
+    },
+    "pk": 7888
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "\u00d6stermalm 0",
+      "coastal": true,
+      "_area_type": 0,
+      "country_id": 4
+    },
+    "pk": 7889
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "\u00d6stermalm 1",
+      "coastal": true,
+      "_area_type": 0,
+      "country_id": 4
+    },
+    "pk": 7890
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "\u00d6stermalm 2",
+      "coastal": true,
+      "_area_type": 0,
+      "country_id": 4
+    },
+    "pk": 7891
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "H\u00e4gersten 0",
+      "coastal": true,
+      "_area_type": 0,
+      "country_id": 4
+    },
+    "pk": 7892
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "H\u00e4gersten 1",
+      "coastal": true,
+      "_area_type": 0,
+      "country_id": 4
+    },
+    "pk": 7893
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "\u00c4lvsj\u00f6",
+      "coastal": true,
+      "_area_type": 1,
+      "country_id": 4
+    },
+    "pk": 7894
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Sk\u00e4rholmen",
+      "coastal": true,
+      "_area_type": 0,
+      "country_id": 4
+    },
+    "pk": 7895
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Liljeholmen",
+      "coastal": true,
+      "_area_type": 0,
+      "country_id": 4
+    },
+    "pk": 7896
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "\u00c5rsta",
+      "coastal": true,
+      "_area_type": 0,
+      "country_id": 4
+    },
+    "pk": 7897
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Enskede",
+      "coastal": true,
+      "_area_type": 0,
+      "country_id": 4
+    },
+    "pk": 7898
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Farsta/Sk\u00f6ndal/Skarpn\u00e4ck 0",
+      "coastal": true,
+      "_area_type": 0,
+      "country_id": 4
+    },
+    "pk": 7899
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Farsta/Sk\u00f6ndal/Skarpn\u00e4ck 1",
+      "coastal": true,
+      "_area_type": 0,
+      "country_id": 4
+    },
+    "pk": 7900
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Bromma 0",
+      "coastal": true,
+      "_area_type": 1,
+      "country_id": 4
+    },
+    "pk": 7901
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Bromma 1",
+      "coastal": true,
+      "_area_type": 1,
+      "country_id": 4
+    },
+    "pk": 7902
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "H\u00e4sselby-V\u00e4llingby 0",
+      "coastal": true,
+      "_area_type": 1,
+      "country_id": 4
+    },
+    "pk": 7903
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "H\u00e4sselby-V\u00e4llingby 1",
+      "coastal": true,
+      "_area_type": 0,
+      "country_id": 4
+    },
+    "pk": 7904
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "H\u00e4sselby-V\u00e4llingby 2",
+      "coastal": true,
+      "_area_type": 0,
+      "country_id": 4
+    },
+    "pk": 7905
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Sp\u00e5nga",
+      "coastal": true,
+      "_area_type": 0,
+      "country_id": 4
+    },
+    "pk": 7906
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Kista",
+      "coastal": true,
+      "_area_type": 0,
+      "country_id": 4
+    },
+    "pk": 7907
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Askim-Fr\u00f6lunda-H\u00f6gsbo 0",
+      "coastal": true,
+      "_area_type": 0,
+      "country_id": 4
+    },
+    "pk": 7908
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Askim-Fr\u00f6lunda-H\u00f6gsbo 1",
+      "coastal": true,
+      "_area_type": 0,
+      "country_id": 4
+    },
+    "pk": 7909
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "V\u00e4stra G\u00f6teborg",
+      "coastal": true,
+      "_area_type": 1,
+      "country_id": 4
+    },
+    "pk": 7910
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Majorna-Linn\u00e9 0",
+      "coastal": true,
+      "_area_type": 0,
+      "country_id": 4
+    },
+    "pk": 7911
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Majorna-Linn\u00e9 1",
+      "coastal": true,
+      "_area_type": 0,
+      "country_id": 4
+    },
+    "pk": 7912
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "\u00d6rgryte-H\u00e4rlanda 0",
+      "coastal": true,
+      "_area_type": 0,
+      "country_id": 4
+    },
+    "pk": 7913
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "\u00d6rgryte-H\u00e4rlanda 1",
+      "coastal": true,
+      "_area_type": 0,
+      "country_id": 4
+    },
+    "pk": 7914
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "G\u00f6teborg Centrum",
+      "coastal": true,
+      "_area_type": 0,
+      "country_id": 4
+    },
+    "pk": 7915
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "\u00d6stra G\u00f6teborg",
+      "coastal": true,
+      "_area_type": 1,
+      "country_id": 4
+    },
+    "pk": 7916
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Angered 0",
+      "coastal": true,
+      "_area_type": 0,
+      "country_id": 4
+    },
+    "pk": 7917
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Angered 1",
+      "coastal": true,
+      "_area_type": 0,
+      "country_id": 4
+    },
+    "pk": 7918
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Norra Hisingen 0",
+      "coastal": true,
+      "_area_type": 1,
+      "country_id": 4
+    },
+    "pk": 7919
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Norra Hisingen 1",
+      "coastal": true,
+      "_area_type": 1,
+      "country_id": 4
+    },
+    "pk": 7920
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Lundby 0",
+      "coastal": true,
+      "_area_type": 0,
+      "country_id": 4
+    },
+    "pk": 7921
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Lundby 1",
+      "coastal": true,
+      "_area_type": 0,
+      "country_id": 4
+    },
+    "pk": 7922
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "V\u00e4stra Hisingen",
+      "coastal": true,
+      "_area_type": 1,
+      "country_id": 4
+    },
+    "pk": 7923
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Malm\u00f6 \u00d6ster 0",
+      "coastal": true,
+      "_area_type": 1,
+      "country_id": 4
+    },
+    "pk": 7924
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Malm\u00f6 \u00d6ster 1",
+      "coastal": true,
+      "_area_type": 1,
+      "country_id": 4
+    },
+    "pk": 7925
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Malm\u00f6 S\u00f6der 0",
+      "coastal": true,
+      "_area_type": 1,
+      "country_id": 4
+    },
+    "pk": 7926
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Malm\u00f6 S\u00f6der 1",
+      "coastal": true,
+      "_area_type": 1,
+      "country_id": 4
+    },
+    "pk": 7927
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Malm\u00f6 Norr 0",
+      "coastal": true,
+      "_area_type": 1,
+      "country_id": 4
+    },
+    "pk": 7928
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Malm\u00f6 Norr 1",
+      "coastal": true,
+      "_area_type": 1,
+      "country_id": 4
+    },
+    "pk": 7929
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Malm\u00f6 V\u00e4ster 0",
+      "coastal": true,
+      "_area_type": 1,
+      "country_id": 4
+    },
+    "pk": 7930
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Malm\u00f6 V\u00e4ster 1",
+      "coastal": true,
+      "_area_type": 1,
+      "country_id": 4
+    },
+    "pk": 7931
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Malm\u00f6 Innerstaden 0",
+      "coastal": true,
+      "_area_type": 0,
+      "country_id": 4
+    },
+    "pk": 7932
+  },
+  {
+    "model": "targeter.customarea",
+    "fields": {
+      "name": "Malm\u00f6 Innerstaden 1",
+      "coastal": true,
+      "_area_type": 0,
+      "country_id": 4
+    },
+    "pk": 7933
+  },
+  {
+    "model": "targeter.customarea",
+    "pk": 7934,
+    "fields": {
+      "name": "Stockholm 29",
+      "country_id": 4,
+      "_area_type": 0,
+      "coastal": true
+    }
+  },
+  {
+    "model": "targeter.customarea",
+    "pk": 7935,
+    "fields": {
+      "name": "Stockholm 30",
+      "country_id": 4,
+      "_area_type": 0,
+      "coastal": true
+    }
+  },
+  {
+    "model": "targeter.customarea",
+    "pk": 7936,
+    "fields": {
+      "name": "Stockholm 31",
+      "country_id": 4,
+      "_area_type": 0,
+      "coastal": true
+    }
+  },
+  {
+    "model": "targeter.customarea",
+    "pk": 7937,
+    "fields": {
+      "name": "Stockholm 32",
+      "country_id": 4,
+      "_area_type": 0,
+      "coastal": true
+    }
+  },
+  {
+    "model": "targeter.customarea",
+    "pk": 7938,
+    "fields": {
+      "name": "Stockholm 33",
+      "country_id": 4,
+      "_area_type": 0,
+      "coastal": true
+    }
+  },
+  {
+    "model": "targeter.customarea",
+    "pk": 7939,
+    "fields": {
+      "name": "Stockholm 34",
+      "country_id": 4,
+      "_area_type": 0,
+      "coastal": true
+    }
+  },
+  {
+    "model": "targeter.customarea",
+    "pk": 7940,
+    "fields": {
+      "name": "Stockholm 35",
+      "country_id": 4,
+      "_area_type": 0,
+      "coastal": true
+    }
+  },
+  {
+    "model": "targeter.customarea",
+    "pk": 7941,
+    "fields": {
+      "name": "Stockholm 36",
+      "country_id": 4,
+      "_area_type": 0,
+      "coastal": true
+    }
+  },
+  {
+    "model": "targeter.customarea",
+    "pk": 7942,
+    "fields": {
+      "name": "Stockholm 37",
+      "country_id": 4,
+      "_area_type": 0,
+      "coastal": true
+    }
+  },
+  {
+    "model": "targeter.customarea",
+    "pk": 7943,
+    "fields": {
+      "name": "Stockholm 38",
+      "country_id": 4,
+      "_area_type": 0,
+      "coastal": true
+    }
+  },
+  {
+    "model": "targeter.customarea",
+    "pk": 7944,
+    "fields": {
+      "name": "Stockholm 39",
+      "country_id": 4,
+      "_area_type": 0,
+      "coastal": true
+    }
+  },
+  {
+    "model": "targeter.customarea",
+    "pk": 7945,
+    "fields": {
+      "name": "Stockholm 40",
+      "country_id": 4,
+      "_area_type": 0,
+      "coastal": true
+    }
+  },
+  {
+    "model": "targeter.customarea",
+    "pk": 7946,
+    "fields": {
+      "name": "Stockholm 41",
+      "country_id": 4,
+      "_area_type": 0,
+      "coastal": true
+    }
+  },
+  {
+    "model": "targeter.customarea",
+    "pk": 7947,
+    "fields": {
+      "name": "Stockholm 42",
+      "country_id": 4,
+      "_area_type": 0,
+      "coastal": true
+    }
+  },
+  {
+    "model": "targeter.customarea",
+    "pk": 7948,
+    "fields": {
+      "name": "Stockholm 43",
+      "country_id": 4,
+      "_area_type": 0,
+      "coastal": true
+    }
+  },
+  {
+    "model": "targeter.customarea",
+    "pk": 7949,
+    "fields": {
+      "name": "Stockholm 44",
+      "country_id": 4,
+      "_area_type": 0,
+      "coastal": true
+    }
+  },
+  {
+    "model": "targeter.customarea",
+    "pk": 7950,
+    "fields": {
+      "name": "Stockholm 45",
+      "country_id": 4,
+      "_area_type": 0,
+      "coastal": true
+    }
+  },
+  {
+    "model": "targeter.customarea",
+    "pk": 7951,
+    "fields": {
+      "name": "Stockholm 46",
+      "country_id": 4,
+      "_area_type": 0,
+      "coastal": true
+    }
+  },
+  {
+    "model": "targeter.customarea",
+    "pk": 7952,
+    "fields": {
+      "name": "Stockholm 47",
+      "country_id": 4,
+      "_area_type": 0,
+      "coastal": true
+    }
+  },
+  {
+    "model": "targeter.customarea",
+    "pk": 7953,
+    "fields": {
+      "name": "Stockholm 48",
+      "country_id": 4,
+      "_area_type": 0,
+      "coastal": true
+    }
+  },
+  {
+    "model": "targeter.customarea",
+    "pk": 7954,
+    "fields": {
+      "name": "Norrt\u00e4lje 5",
+      "country_id": 4,
+      "_area_type": 2,
+      "coastal": true
+    }
+  },
+  {
+    "model": "targeter.customarea",
+    "pk": 7955,
+    "fields": {
+      "name": "Stockholm 49",
+      "country_id": 4,
+      "_area_type": 0,
+      "coastal": true
+    }
+  },
+  {
+    "model": "targeter.customarea",
+    "pk": 7956,
+    "fields": {
+      "name": "Stockholm 50",
+      "country_id": 4,
+      "_area_type": 0,
+      "coastal": true
+    }
+  },
+  {
+    "model": "targeter.customarea",
+    "pk": 7957,
+    "fields": {
+      "name": "Stockholm 51",
+      "country_id": 4,
+      "_area_type": 0,
+      "coastal": true
+    }
+  },
+  {
+    "model": "targeter.customarea",
+    "pk": 7958,
+    "fields": {
+      "name": "Vindeln 2",
+      "country_id": 4,
+      "_area_type": 2,
+      "coastal": false
+    }
+  },
+  {
+    "model": "targeter.customarea",
+    "pk": 7959,
+    "fields": {
+      "name": "Mal\u00e5 2",
+      "country_id": 4,
+      "_area_type": 2,
+      "coastal": false
+    }
+  },
+  {
+    "model": "targeter.customarea",
+    "pk": 7960,
+    "fields": {
+      "name": "Sorsele 2",
+      "country_id": 4,
+      "_area_type": 2,
+      "coastal": false
+    }
+  },
+  {
+    "model": "targeter.customarea",
+    "pk": 7961,
+    "fields": {
+      "name": "\u00c5sele 3",
+      "country_id": 4,
+      "_area_type": 2,
+      "coastal": false
+    }
+  },
+  {
+    "model": "targeter.customarea",
+    "pk": 7962,
+    "fields": {
+      "name": "Arjeplog 2",
+      "country_id": 4,
+      "_area_type": 2,
+      "coastal": false
+    }
+  },
+  {
+    "model": "targeter.customarea",
+    "pk": 7963,
+    "fields": {
+      "name": "Tierp 4",
+      "country_id": 4,
+      "_area_type": 2,
+      "coastal": true
+    }
+  },
+  {
+    "model": "targeter.customarea",
+    "pk": 7964,
+    "fields": {
+      "name": "\u00d6sthammar 6",
+      "country_id": 4,
+      "_area_type": 2,
+      "coastal": true
+    }
+  },
+  {
+    "model": "targeter.customarea",
+    "pk": 7965,
+    "fields": {
+      "name": "Flen 3",
+      "country_id": 4,
+      "_area_type": 2,
+      "coastal": false
+    }
+  },
+  {
+    "model": "targeter.customarea",
+    "pk": 7966,
+    "fields": {
+      "name": "Katrineholm 5",
+      "country_id": 4,
+      "_area_type": 2,
+      "coastal": false
+    }
+  },
+  {
+    "model": "targeter.customarea",
+    "pk": 7967,
+    "fields": {
+      "name": "Eskilstuna 10",
+      "country_id": 4,
+      "_area_type": 2,
+      "coastal": false
+    }
+  },
+  {
+    "model": "targeter.customarea",
+    "pk": 7968,
+    "fields": {
+      "name": "Str\u00e4ngn\u00e4s 4",
+      "country_id": 4,
+      "_area_type": 2,
+      "coastal": false
+    }
+  },
+  {
+    "model": "targeter.customarea",
+    "pk": 7969,
+    "fields": {
+      "name": "Norrk\u00f6ping 2",
+      "country_id": 4,
+      "_area_type": 2,
+      "coastal": false
+    }
+  },
+  {
+    "model": "targeter.customarea",
+    "pk": 7970,
+    "fields": {
+      "name": "Norrk\u00f6ping 3",
+      "country_id": 4,
+      "_area_type": 2,
+      "coastal": false
+    }
+  },
+  {
+    "model": "targeter.customarea",
+    "pk": 7971,
+    "fields": {
+      "name": "Norrk\u00f6ping 4",
+      "country_id": 4,
+      "_area_type": 2,
+      "coastal": false
+    }
+  },
+  {
+    "model": "targeter.customarea",
+    "pk": 7972,
+    "fields": {
+      "name": "Norrk\u00f6ping 5",
+      "country_id": 4,
+      "_area_type": 2,
+      "coastal": false
+    }
+  },
+  {
+    "model": "targeter.customarea",
+    "pk": 7973,
+    "fields": {
+      "name": "Norrk\u00f6ping 6",
+      "country_id": 4,
+      "_area_type": 2,
+      "coastal": false
+    }
+  },
+  {
+    "model": "targeter.customarea",
+    "pk": 7974,
+    "fields": {
+      "name": "Norrk\u00f6ping 7",
+      "country_id": 4,
+      "_area_type": 2,
+      "coastal": false
+    }
+  },
+  {
+    "model": "targeter.customarea",
+    "pk": 7975,
+    "fields": {
+      "name": "Norrk\u00f6ping 8",
+      "country_id": 4,
+      "_area_type": 2,
+      "coastal": false
+    }
+  },
+  {
+    "model": "targeter.customarea",
+    "pk": 7976,
+    "fields": {
+      "name": "Norrk\u00f6ping 9",
+      "country_id": 4,
+      "_area_type": 2,
+      "coastal": false
+    }
+  },
+  {
+    "model": "targeter.customarea",
+    "pk": 7977,
+    "fields": {
+      "name": "Norrk\u00f6ping 10",
+      "country_id": 4,
+      "_area_type": 2,
+      "coastal": false
+    }
+  },
+  {
+    "model": "targeter.customarea",
+    "pk": 7978,
+    "fields": {
+      "name": "Norrk\u00f6ping 11",
+      "country_id": 4,
+      "_area_type": 2,
+      "coastal": false
+    }
+  },
+  {
+    "model": "targeter.customarea",
+    "pk": 7979,
+    "fields": {
+      "name": "Norrk\u00f6ping 12",
+      "country_id": 4,
+      "_area_type": 2,
+      "coastal": false
+    }
+  },
+  {
+    "model": "targeter.customarea",
+    "pk": 7980,
+    "fields": {
+      "name": "Norrk\u00f6ping 13",
+      "country_id": 4,
+      "_area_type": 2,
+      "coastal": false
+    }
+  },
+  {
+    "model": "targeter.customarea",
+    "pk": 7981,
+    "fields": {
+      "name": "Norrk\u00f6ping 14",
+      "country_id": 4,
+      "_area_type": 2,
+      "coastal": false
+    }
+  },
+  {
+    "model": "targeter.customarea",
+    "pk": 7982,
+    "fields": {
+      "name": "Lessebo 2",
+      "country_id": 4,
+      "_area_type": 2,
+      "coastal": false
+    }
+  },
+  {
+    "model": "targeter.customarea",
+    "pk": 7983,
+    "fields": {
+      "name": "V\u00e4xj\u00f6 9",
+      "country_id": 4,
+      "_area_type": 2,
+      "coastal": false
+    }
+  },
+  {
+    "model": "targeter.customarea",
+    "pk": 7984,
+    "fields": {
+      "name": "V\u00e4xj\u00f6 10",
+      "country_id": 4,
+      "_area_type": 2,
+      "coastal": false
+    }
+  },
+  {
+    "model": "targeter.customarea",
+    "pk": 7985,
+    "fields": {
+      "name": "V\u00e4xj\u00f6 11",
+      "country_id": 4,
+      "_area_type": 2,
+      "coastal": false
+    }
+  },
+  {
+    "model": "targeter.customarea",
+    "pk": 7986,
+    "fields": {
+      "name": "V\u00e4xj\u00f6 12",
+      "country_id": 4,
+      "_area_type": 2,
+      "coastal": false
+    }
+  },
+  {
+    "model": "targeter.customarea",
+    "pk": 7987,
+    "fields": {
+      "name": "Ur\u00e5sa 1",
+      "country_id": 4,
+      "_area_type": 2,
+      "coastal": false
+    }
+  },
+  {
+    "model": "targeter.customarea",
+    "pk": 7988,
+    "fields": {
+      "name": "H\u00f6rby 3",
+      "country_id": 4,
+      "_area_type": 2,
+      "coastal": false
+    }
+  },
+  {
+    "model": "targeter.customarea",
+    "pk": 7989,
+    "fields": {
+      "name": "Osby 3",
+      "country_id": 4,
+      "_area_type": 2,
+      "coastal": false
+    }
+  },
+  {
+    "model": "targeter.customarea",
+    "pk": 7990,
+    "fields": {
+      "name": "Klippan 3",
+      "country_id": 4,
+      "_area_type": 2,
+      "coastal": false
+    }
+  },
+  {
+    "model": "targeter.customarea",
+    "pk": 7991,
+    "fields": {
+      "name": "Malm\u00f6 11",
+      "country_id": 4,
+      "_area_type": 0,
+      "coastal": true
+    }
+  },
+  {
+    "model": "targeter.customarea",
+    "pk": 7992,
+    "fields": {
+      "name": "Landskrona 3",
+      "country_id": 4,
+      "_area_type": 2,
+      "coastal": true
+    }
+  },
+  {
+    "model": "targeter.customarea",
+    "pk": 7993,
+    "fields": {
+      "name": "Esl\u00f6v 4",
+      "country_id": 4,
+      "_area_type": 2,
+      "coastal": false
+    }
+  },
+  {
+    "model": "targeter.customarea",
+    "pk": 7994,
+    "fields": {
+      "name": "Esl\u00f6v 5",
+      "country_id": 4,
+      "_area_type": 2,
+      "coastal": false
+    }
+  },
+  {
+    "model": "targeter.customarea",
+    "pk": 7995,
+    "fields": {
+      "name": "Kristianstad 6",
+      "country_id": 4,
+      "_area_type": 2,
+      "coastal": true
+    }
+  },
+  {
+    "model": "targeter.customarea",
+    "pk": 7996,
+    "fields": {
+      "name": "Malm\u00f6 12",
+      "country_id": 4,
+      "_area_type": 0,
+      "coastal": true
+    }
+  },
+  {
+    "model": "targeter.customarea",
+    "pk": 7997,
+    "fields": {
+      "name": "Malm\u00f6 13",
+      "country_id": 4,
+      "_area_type": 0,
+      "coastal": true
+    }
+  },
+  {
+    "model": "targeter.customarea",
+    "pk": 7998,
+    "fields": {
+      "name": "Malm\u00f6 14",
+      "country_id": 4,
+      "_area_type": 0,
+      "coastal": true
+    }
+  },
+  {
+    "model": "targeter.customarea",
+    "pk": 7999,
+    "fields": {
+      "name": "Malm\u00f6 15",
+      "country_id": 4,
+      "_area_type": 0,
+      "coastal": true
+    }
+  },
+  {
+    "model": "targeter.customarea",
+    "pk": 8000,
+    "fields": {
+      "name": "Malm\u00f6 16",
+      "country_id": 4,
+      "_area_type": 0,
+      "coastal": true
+    }
+  },
+  {
+    "model": "targeter.customarea",
+    "pk": 8001,
+    "fields": {
+      "name": "Malm\u00f6 17",
+      "country_id": 4,
+      "_area_type": 0,
+      "coastal": true
+    }
+  },
+  {
+    "model": "targeter.customarea",
+    "pk": 8002,
+    "fields": {
+      "name": "Malm\u00f6 18",
+      "country_id": 4,
+      "_area_type": 0,
+      "coastal": true
+    }
+  },
+  {
+    "model": "targeter.customarea",
+    "pk": 8003,
+    "fields": {
+      "name": "Malm\u00f6 19",
+      "country_id": 4,
+      "_area_type": 0,
+      "coastal": true
+    }
+  },
+  {
+    "model": "targeter.customarea",
+    "pk": 8004,
+    "fields": {
+      "name": "Malm\u00f6 20",
+      "country_id": 4,
+      "_area_type": 0,
+      "coastal": true
+    }
+  },
+  {
+    "model": "targeter.customarea",
+    "pk": 8005,
+    "fields": {
+      "name": "\u00d6cker\u00f6 2",
+      "country_id": 4,
+      "_area_type": 0,
+      "coastal": false
+    }
+  },
+  {
+    "model": "targeter.customarea",
+    "pk": 8006,
+    "fields": {
+      "name": "Mark 6",
+      "country_id": 4,
+      "_area_type": 2,
+      "coastal": false
+    }
+  },
+  {
+    "model": "targeter.customarea",
+    "pk": 8007,
+    "fields": {
+      "name": "G\u00f6teborg 17",
+      "country_id": 4,
+      "_area_type": 0,
+      "coastal": true
+    }
+  },
+  {
+    "model": "targeter.customarea",
+    "pk": 8008,
+    "fields": {
+      "name": "G\u00f6teborg 18",
+      "country_id": 4,
+      "_area_type": 0,
+      "coastal": true
+    }
+  },
+  {
+    "model": "targeter.customarea",
+    "pk": 8009,
+    "fields": {
+      "name": "G\u00f6teborg 19",
+      "country_id": 4,
+      "_area_type": 0,
+      "coastal": true
+    }
+  },
+  {
+    "model": "targeter.customarea",
+    "pk": 8010,
+    "fields": {
+      "name": "G\u00f6teborg 20",
+      "country_id": 4,
+      "_area_type": 0,
+      "coastal": true
+    }
+  },
+  {
+    "model": "targeter.customarea",
+    "pk": 8011,
+    "fields": {
+      "name": "G\u00f6teborg 21",
+      "country_id": 4,
+      "_area_type": 0,
+      "coastal": true
+    }
+  },
+  {
+    "model": "targeter.customarea",
+    "pk": 8012,
+    "fields": {
+      "name": "G\u00f6teborg 22",
+      "country_id": 4,
+      "_area_type": 0,
+      "coastal": true
+    }
+  },
+  {
+    "model": "targeter.customarea",
+    "pk": 8013,
+    "fields": {
+      "name": "G\u00f6teborg 23",
+      "country_id": 4,
+      "_area_type": 0,
+      "coastal": true
+    }
+  },
+  {
+    "model": "targeter.customarea",
+    "pk": 8014,
+    "fields": {
+      "name": "G\u00f6teborg 24",
+      "country_id": 4,
+      "_area_type": 0,
+      "coastal": true
+    }
+  },
+  {
+    "model": "targeter.customarea",
+    "pk": 8015,
+    "fields": {
+      "name": "G\u00f6teborg 25",
+      "country_id": 4,
+      "_area_type": 0,
+      "coastal": true
+    }
+  },
+  {
+    "model": "targeter.customarea",
+    "pk": 8016,
+    "fields": {
+      "name": "G\u00f6teborg 26",
+      "country_id": 4,
+      "_area_type": 0,
+      "coastal": true
+    }
+  },
+  {
+    "model": "targeter.customarea",
+    "pk": 8017,
+    "fields": {
+      "name": "G\u00f6teborg 27",
+      "country_id": 4,
+      "_area_type": 0,
+      "coastal": true
+    }
+  },
+  {
+    "model": "targeter.customarea",
+    "pk": 8018,
+    "fields": {
+      "name": "G\u00f6teborg 28",
+      "country_id": 4,
+      "_area_type": 0,
+      "coastal": true
+    }
+  },
+  {
+    "model": "targeter.customarea",
+    "pk": 8019,
+    "fields": {
+      "name": "Sala 4",
+      "country_id": 4,
+      "_area_type": 2,
+      "coastal": false
+    }
+  },
+  {
+    "model": "targeter.customarea",
+    "pk": 8020,
+    "fields": {
+      "name": "Storvreta 1",
+      "country_id": 4,
+      "_area_type": 2,
+      "coastal": false
+    }
+  },
+  {
+    "model": "targeter.customarea",
+    "pk": 8021,
+    "fields": {
+      "name": "Gagnef 3",
+      "country_id": 4,
+      "_area_type": 2,
+      "coastal": false
+    }
+  },
+  {
+    "model": "targeter.customarea",
+    "pk": 8022,
+    "fields": {
+      "name": "Nordanstig 2",
+      "country_id": 4,
+      "_area_type": 2,
+      "coastal": true
+    }
+  },
+  {
+    "model": "targeter.customarea",
+    "pk": 8023,
+    "fields": {
+      "name": "Bolln\u00e4s 6",
+      "country_id": 4,
+      "_area_type": 2,
+      "coastal": false
+    }
+  },
+  {
+    "model": "targeter.customarea",
+    "pk": 8024,
+    "fields": {
+      "name": "\u00d6rnsk\u00f6ldsvik 8",
+      "country_id": 4,
+      "_area_type": 2,
+      "coastal": true
+    }
+  },
+  {
+    "model": "targeter.customarea",
+    "pk": 8025,
+    "fields": {
+      "name": "Ragunda 3",
+      "country_id": 4,
+      "_area_type": 2,
+      "coastal": false
+    }
+  },
+  {
+    "model": "targeter.customarea",
+    "pk": 8026,
+    "fields": {
+      "name": "Br\u00e4cke 2",
+      "country_id": 4,
+      "_area_type": 2,
+      "coastal": false
+    }
+  },
+  {
+    "model": "targeter.customarea",
+    "pk": 8027,
+    "fields": {
+      "name": "Krokom 3",
+      "country_id": 4,
+      "_area_type": 2,
+      "coastal": false
+    }
+  },
+  {
+    "model": "targeter.customarea",
+    "pk": 8028,
+    "fields": {
+      "name": "\u00c5re 2",
+      "country_id": 4,
+      "_area_type": 2,
+      "coastal": false
+    }
+  },
+  {
+    "model": "targeter.customarea",
+    "pk": 8029,
+    "fields": {
+      "name": "Berg 4",
+      "country_id": 4,
+      "_area_type": 2,
+      "coastal": false
+    }
+  },
+  {
+    "model": "targeter.customarea",
+    "pk": 8030,
+    "fields": {
+      "name": "\u00d6stersund 7",
+      "country_id": 4,
+      "_area_type": 2,
+      "coastal": false
+    }
+  },
+  {
+    "model": "targeter.customarea",
+    "pk": 8031,
+    "fields": {
+      "name": "Stockholm 52",
+      "country_id": 4,
+      "_area_type": 0,
+      "coastal": true
+    }
+  },
+  {
+    "model": "targeter.customarea",
+    "pk": 8032,
+    "fields": {
+      "name": "Sturefors",
+      "country_id": 4,
+      "_area_type": 2,
+      "coastal": false
+    }
+  },
+  {
+    "model": "targeter.customarea",
+    "pk": 8033,
+    "fields": {
+      "name": "Haverdal",
+      "country_id": 4,
+      "_area_type": 2,
+      "coastal": true
+    }
+  },
+  {
+    "model": "targeter.customarea",
+    "pk": 8104,
+    "fields": {
+      "name": "H\u00e4stveda",
+      "country_id": 4,
+      "_area_type": 2,
+      "coastal": false
+    }
+  }
+]
