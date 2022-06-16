@@ -1,10 +1,7 @@
-import pandas as pd
 import json
 import os
 from models import AdministrativeUnit, Base, Zip, CustomArea
 from dataclasses import asdict
-import sys
-from itertools import groupby, count
 from collections import Counter
 from statistics import mode
 
@@ -42,12 +39,11 @@ def modify_list(zips: list[Base], custom_units: list[Base], admin_unit: list[Bas
             zips.append(Base(model='targeter.zip',
                              pk=_zip_max,
                              fields=Zip(administrative_unit_id=_filtered_admin_unit,
-                                        # postal_object.get('administrative_unit_id'),
                                         code=code,
-                                        country_id=_filtered_country,  # postal_object.get('country_id'),
-                                        google_maps_id=None,  # postal_object.get('google_maps_id'),
-                                        coordinates=None,  # postal_object.get('coordinates'),
-                                        custom_area_id=_filtered_custom,  # postal_object.get('custom_area_id')
+                                        country_id=_filtered_country,
+                                        google_maps_id=None,
+                                        coordinates=None,
+                                        custom_area_id=_filtered_custom,
                                         )
                              ))
 

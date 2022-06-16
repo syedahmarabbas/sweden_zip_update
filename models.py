@@ -1,8 +1,4 @@
-import datetime
-from datetime import datetime
-from random import randint
 from dataclasses import dataclass
-from pydantic import BaseModel, Field, PrivateAttr
 
 
 @dataclass
