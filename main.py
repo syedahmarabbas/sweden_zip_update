@@ -4,17 +4,32 @@ from models import AdministrativeUnit, Base, Zip, CustomArea
 from dataclasses import asdict
 from collections import Counter
 from statistics import mode
+import requests
+from tqdm import tqdm
+
+
+def get_coordinates(postalcode: str) -> str:
+    coords = None
+    # Look up nomination (OSM) for coordinates
+    result = requests.get(
+        'http://nominatim.openstreetmap.org/search/?format=json&country=sweden&postalcode=' + postalcode)
+    if result.status_code == 200 and len(result.json()) > 0:
+        coords = 'POINT(' + result.json()[0].get('lon') + ' ' + result.json()[0].get('lat') + ')'
+    return coords
 
 
 def modify_list(zips: list[Base], custom_units: list[Base], admin_unit: list[Base], new_data: json,
                 _zip_max, _custom_area_max,
                 _administrative_unit_max):
-    for postal_object in new_data:
+    for postal_object in tqdm(new_data):
         code = str(postal_object.get('Postal_Code'))
         code = code[:3] + " " + code[3:]
         if code in [item.fields.code for item in zips]:
             continue
         else:
+            coordinates = postal_object.get('Coordinates')
+            if not coordinates:
+                coordinates = get_coordinates(code.replace(' ', '+'))
             # Look up and/or add administrative unit
             _zip_max = _zip_max + 1
             _filtered_admin_unit = match_administrative_unit(admin_unit.copy(), postal_object, zips.copy())
@@ -42,7 +57,7 @@ def modify_list(zips: list[Base], custom_units: list[Base], admin_unit: list[Bas
                                         code=code,
                                         country_id=_filtered_country,
                                         google_maps_id=None,
-                                        coordinates=None,
+                                        coordinates=coordinates,
                                         custom_area_id=_filtered_custom,
                                         )
                              ))
@@ -177,7 +192,7 @@ def create_data(data: json) -> list[Base]:
 
 
 if __name__ == '__main__':
-    zip_max = 22987
+    zip_max = 22988
     administrative_unit_max = 1263
     custom_area_max = 8308
 
@@ -216,4 +231,3 @@ if __name__ == '__main__':
     zip_export = [asdict(x) for x in new_zips]
     with open('output/new_zips_sweden.json', 'w', encoding='utf-8') as f:
         json.dump(zip_export, f, indent=2)
-

@@ -35,4 +35,4 @@ class Zip:
 class Base:
     model: str = None
     pk: int = None
-    fields: AdministrativeUnit or Zip = None
+    fields: AdministrativeUnit | Zip = None

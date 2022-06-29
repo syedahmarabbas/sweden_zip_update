@@ -105961,16 +105961,6 @@
   },
   {
     "model": "targeter.zip",
-    "pk": 20907,
-    "fields": {
-      "administrative_unit_id": 1043,
-      "code": "542 36",
-      "country_id": 4,
-      "custom_area_id": 7629
-    }
-  },
-  {
-    "model": "targeter.zip",
     "pk": 20936,
     "fields": {
       "administrative_unit_id": 1166,
@@ -128774,6 +128764,16 @@
       "code": "831 53",
       "country_id": 4,
       "custom_area_id": 7876
+    }
+  },
+  {
+    "model": "targeter.zip",
+    "pk": 22988,
+    "fields": {
+      "administrative_unit_id": 1043,
+      "code": "542 36",
+      "country_id": 4,
+      "custom_area_id": 7629
     }
   }
 ]
